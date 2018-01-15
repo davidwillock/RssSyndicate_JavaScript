@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Technology]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Technology</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 11:58:09 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Lasers give insight into bird flight and other tech news]]></title>
+            <description><![CDATA[BBC Click's Nick Kwek looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38342441</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38342441</guid>
+            <pubDate>Fri, 16 Dec 2016 11:46:04 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11C4B/production/_92997727_p04lnsys.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Were Yahoo hackers state-sponsored?]]></title>
+            <description><![CDATA[Cyber security expert 'sceptical' over Yahoo claims of state-sponsored hacking.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38326812</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38326812</guid>
+            <pubDate>Thu, 15 Dec 2016 08:02:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1203B/production/_92978737_p04lhn94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social storage: The people profiting from surplus space]]></title>
+            <description><![CDATA[The traditional warehouse model of self-storage is under threat from "citizen storers".]]></description>
+            <link>http://www.bbc.co.uk/news/business-38341445</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38341445</guid>
+            <pubDate>Sun, 18 Dec 2016 00:34:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A9BC/production/_93025434_p04lp33d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'selfie firm' worth $4.6bn]]></title>
+            <description><![CDATA[What price beauty? A Chinese start-up best known for an app that helps people tweak their selfies has listed on the stock market for $4.6bn,]]></description>
+            <link>http://www.bbc.co.uk/news/business-38324984</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38324984</guid>
+            <pubDate>Thu, 15 Dec 2016 06:34:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15105/production/_92977268_selfieshot.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virtual reindeer and smart make-up mirrors]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at how shops are creating more engaging shopping experiences.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38303666</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38303666</guid>
+            <pubDate>Wed, 14 Dec 2016 08:56:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2521/production/_92950590_p04l7n6c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google Zeitgeist list charts UK search trends]]></title>
+            <description><![CDATA[A look at how Google search trends in the UK have changed, as it reveals its top rising searches for 2016.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38318295</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38318295</guid>
+            <pubDate>Wed, 14 Dec 2016 16:18:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/826A/production/_92968333_p04ldsl7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Riding along in Uber’s self-drive car in San Francisco]]></title>
+            <description><![CDATA[Uber has begun testing its self-driving car in San Francisco - the BBC went for a quick ride.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38312313</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38312313</guid>
+            <pubDate>Wed, 14 Dec 2016 11:16:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2F73/production/_92974121_p04ld549.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Top secret' Amazon Web Services opens in UK]]></title>
+            <description><![CDATA[Amazon Web Services has announced it is opening its first data centre in the UK]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38312694</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38312694</guid>
+            <pubDate>Wed, 14 Dec 2016 08:56:15 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A10A/production/_92962214_p04lcgg2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are we being left in the digital slow lane?]]></title>
+            <description><![CDATA[Lord Adonis says telephone companies aren't rolling out 4G coverage fast enough.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38314023</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38314023</guid>
+            <pubDate>Wed, 14 Dec 2016 10:10:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DB5C/production/_92965165_adonis.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to meet US tech bosses]]></title>
+            <description><![CDATA[The president-elect prepares for talks with Silicon Valley's main players.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38311008</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38311008</guid>
+            <pubDate>Wed, 14 Dec 2016 05:32:25 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/DD28/production/_92961665_p04lbt6h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The hopping robot and other tech news]]></title>
+            <description><![CDATA[BBC Click's Nick Kwek looks at some of the best of the week's technology news]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38256962</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38256962</guid>
+            <pubDate>Fri, 09 Dec 2016 00:12:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13073/production/_92893977_p04kpj7k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the octopus is inspiring keyhole surgical tools]]></title>
+            <description><![CDATA[The way an octopus moves its limbs is helping inspire the development of soft body robotics.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38148070</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38148070</guid>
+            <pubDate>Thu, 08 Dec 2016 00:33:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8819/production/_92714843_p04jc3y4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facial scan app wants to get to know you]]></title>
+            <description><![CDATA[Augmented reality app Blippar can now recognise the faces of 70,000 public figures.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38216255</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38216255</guid>
+            <pubDate>Tue, 06 Dec 2016 09:59:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4DDE/production/_92843991_p04k942r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC reporter and amputee tries out 3D printed legs]]></title>
+            <description><![CDATA[BBC reporter Kathleen Hawkins, a double amputee, travelled to Texas to try out 3D printed legs.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38208524</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38208524</guid>
+            <pubDate>Mon, 05 Dec 2016 23:00:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8C85/production/_92837953_p04k7tsf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Partially-sighted Paralympian gets to see boyfriend clearly]]></title>
+            <description><![CDATA[Partially-sighted Paralympian Libby Clegg gets to see her boyfriend's face more clearly thanks to hi-tech goggles.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38168160</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38168160</guid>
+            <pubDate>Fri, 02 Dec 2016 00:21:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/319C/production/_92800721_p04jx0gl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: TripAdvisor co-founder shares his business tips]]></title>
+            <description><![CDATA[Langley Steinert, the co-founder of TripAdvisor, shares the business advice he has learned.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38156562</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38156562</guid>
+            <pubDate>Sun, 04 Dec 2016 08:10:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7500/production/_92725992_p04jg546.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The AI-generated Christmas karaoke song and other news]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38168156</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38168156</guid>
+            <pubDate>Fri, 02 Dec 2016 08:26:11 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12708/production/_92782557_p04jrnyl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smart duvet: the bed that makes itself]]></title>
+            <description><![CDATA[A bed that can make itself after being slept in is developed in Montreal, Canada.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38183529</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38183529</guid>
+            <pubDate>Fri, 02 Dec 2016 11:12:41 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1813C/production/_92802689_p04jxb7l.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's hi-tech bike hire startups]]></title>
+            <description><![CDATA[China's tech giants are backing sophisticated bike hire as a solution to the country's congested roads.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-38199162</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-38199162</guid>
+            <pubDate>Sun, 04 Dec 2016 22:11:14 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1074E/production/_92860476_p04k2kwt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The tech enabling a man with quadriplegia to drive]]></title>
+            <description><![CDATA[The semi-autonomous Corvette has been modified to enable Sam Schmidt to drive on public roads.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38182052</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38182052</guid>
+            <pubDate>Sat, 03 Dec 2016 03:03:52 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13C7D/production/_92812018_p04jyzk5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Testing car seats to protect children]]></title>
+            <description><![CDATA[With rules on children's car seats set to change next year, Richard Westcott visits a facility for conducting tests.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38183929</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38183929</guid>
+            <pubDate>Fri, 02 Dec 2016 11:46:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5EA6/production/_92803242_p04jxf0h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football meets virtual reality in new headset computer game]]></title>
+            <description><![CDATA[A football computer game has been given a futuristic makeover, immersing players into the world of virtual reality.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-essex-38182378</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-essex-38182378</guid>
+            <pubDate>Fri, 02 Dec 2016 11:14:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16C1A/production/_92801239_p04jx0tg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How we made the most of the BBC Micro]]></title>
+            <description><![CDATA[It's 35 years since the BBC launched its revolutionary 8-bit computer, inspiring a whole generation of programmers.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38148220</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38148220</guid>
+            <pubDate>Thu, 01 Dec 2016 10:03:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2862/production/_92783301_p04jpqvk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turning rock carvings into laser projections]]></title>
+            <description><![CDATA[How an artist is turning ancient Native America rock art into laser images.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38104076</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38104076</guid>
+            <pubDate>Wed, 30 Nov 2016 08:53:54 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/58E3/production/_92655722_p04hx8pp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What the internet surveillance law means to you]]></title>
+            <description><![CDATA[Zoe Kleinman explains why the Investigatory Powers Act is so controversial.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38150530</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38150530</guid>
+            <pubDate>Tue, 29 Nov 2016 20:04:04 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/558E/production/_92720912_p04jdtq0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-astronaut's plans to take tourists to outer atmosphere]]></title>
+            <description><![CDATA[Retired astronaut Ron Garan wants to help tourists experience Earth from a new perspective.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38070966</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38070966</guid>
+            <pubDate>Tue, 29 Nov 2016 00:14:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/67F3/production/_92611662_p04hdbxm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hands-on with a phone number harvesting app]]></title>
+            <description><![CDATA[BBC reporter Helier Cheung takes a look at phonebook-scraping apps that collect telephone numbers in a searchable database.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38103896</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38103896</guid>
+            <pubDate>Fri, 25 Nov 2016 16:04:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13C1D/production/_92652908_p04hx9q6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The US telescope looking for extra-terrestrial life]]></title>
+            <description><![CDATA[The Green Bank Telescope listens for signs of communication or activity by species that are not from Earth.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38089835</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38089835</guid>
+            <pubDate>Sat, 26 Nov 2016 00:06:34 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14CCC/production/_92669158_p04hz2mf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The skateboarding helium robot and other tech news]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at some of the best of the week's technology news]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38097204</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38097204</guid>
+            <pubDate>Fri, 25 Nov 2016 00:44:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/298A/production/_92643601_p04hqmlj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The dangers of 'ransomware']]></title>
+            <description><![CDATA[Thousands are having their computers encrypted by ransomware.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38123403</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38123403</guid>
+            <pubDate>Mon, 28 Nov 2016 06:23:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/DD98/production/_92682765_p04j4b0y.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The supercomputer of the future?]]></title>
+            <description><![CDATA[Scientists say they are close to building a large scale quantum computer]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38106482</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38106482</guid>
+            <pubDate>Fri, 25 Nov 2016 13:25:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5753/production/_92655322_p04hw76q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey fryer warning given by fire chiefs for Thanksgiving]]></title>
+            <description><![CDATA[US fire chiefs have released a turkey fryer danger alert video to coincide with Thanksgiving Day.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38098940</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38098940</guid>
+            <pubDate>Thu, 24 Nov 2016 17:39:30 GMT</pubDate>
+            <media:thumbnail width="1732" height="974" url="http://c.files.bbci.co.uk/B4B8/production/_92646264_mediaitem92646263.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Tamagotchis briefly conquered the world]]></title>
+            <description><![CDATA[Tamagotchis were launched in Japan 20 years ago, sparking a short-lived cyber-pet craze.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38066730</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38066730</guid>
+            <pubDate>Wed, 23 Nov 2016 03:10:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2C60/production/_92606311_p04hbtcx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Bluetooth enabled padlock and other travel tech reviewed]]></title>
+            <description><![CDATA[Tommy Sandhu looks at some of the latest travel gadgets.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38064654</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38064654</guid>
+            <pubDate>Tue, 22 Nov 2016 10:55:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/803E/production/_92603823_p04h7n2k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The confusion caused by driverless cars]]></title>
+            <description><![CDATA[Driverless car technology seems to be advancing at breakneck speed, but the changes this will mean for the rules of the road are proceeding at a slower pace.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38069147</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38069147</guid>
+            <pubDate>Tue, 22 Nov 2016 14:49:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16116/production/_92609309_p04hcqqj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shooting stars from space for 2020 Olympics]]></title>
+            <description><![CDATA[Project Sky Canvas hopes to paint the sky with colour above the Olympics using ready-made shooting stars.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37928806</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37928806</guid>
+            <pubDate>Mon, 21 Nov 2016 11:49:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E461/production/_92356485_p04fqvm6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How virtual reality could help prosecute Nazi war criminals]]></title>
+            <description><![CDATA[BBC Click's Marc Cieslak meets the team behind a 3D recreation of Auschwitz.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38031080</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38031080</guid>
+            <pubDate>Sun, 20 Nov 2016 02:38:19 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/150E0/production/_92504268_p04gwzgc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cybersecurity boss on love and respect]]></title>
+            <description><![CDATA[Amnon Bar-Lev, president of Check Point Software, shares the business advice he wishes he had when he started out.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37989753</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37989753</guid>
+            <pubDate>Sun, 20 Nov 2016 00:49:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F5C3/production/_92451926_p04gdqs9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arianna Huffington: 'We're drowning in data']]></title>
+            <description><![CDATA[The BBC’s Lerato Mbele meets the Huffington Post's founding editor Arianna Huffington to discuss shifts in the political, media and business landscapes.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38027078</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38027078</guid>
+            <pubDate>Fri, 18 Nov 2016 12:47:04 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C350/production/_92500005_p04gvgc5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese social media star faked good deeds]]></title>
+            <description><![CDATA[A Chinese social media star, famous for live streaming himself giving away money, has been revealed to have been faking his acts of generosity.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38004545</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38004545</guid>
+            <pubDate>Fri, 18 Nov 2016 00:31:40 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/15583/production/_92472478_jiu.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pizza company offers drone deliveries and other news]]></title>
+            <description><![CDATA[BBC Click's Nick Kwek looks at some of the best of the week's technology news]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38015450</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38015450</guid>
+            <pubDate>Fri, 18 Nov 2016 00:11:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/487E/production/_92485581_p04grb8f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shakespeare show blurs lines of reality]]></title>
+            <description><![CDATA[Shakespeare's Tempest is given a mixed reality makeover by the Royal Shakespeare Company.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38000110</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38000110</guid>
+            <pubDate>Thu, 17 Nov 2016 00:29:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EB7F/production/_92478206_de207.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google Earth gets virtual reality makeover]]></title>
+            <description><![CDATA[Google's globe-trotting app Earth makes its VR debut.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38000107</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38000107</guid>
+            <pubDate>Wed, 16 Nov 2016 16:13:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/FF42/production/_92464356_p04ghrcn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snapchat: Is it really worth $25bn?]]></title>
+            <description><![CDATA[As reports swirl that Snapchat is set to be the biggest US tech stock market launch since Facebook, we ask if it is worth the rumoured $25bn valuation.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37996314</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37996314</guid>
+            <pubDate>Wed, 16 Nov 2016 08:02:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1839A/production/_92462299_p04ghc17.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google boss Sundar Pichai explains £1bn UK investment]]></title>
+            <description><![CDATA[Google chief executive Sundar Pichai explains why the tech giant is investing an estimated £1bn in the UK.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37994344</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37994344</guid>
+            <pubDate>Tue, 15 Nov 2016 18:06:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/176E7/production/_92457959_mediaitem92457958.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raspberry Pi used to create electric skateboard]]></title>
+            <description><![CDATA[A teenager has built an electric skateboard using a computer that cost just £4.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cambridgeshire-37989413</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cambridgeshire-37989413</guid>
+            <pubDate>Tue, 15 Nov 2016 12:25:04 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/167D3/production/_92451129_p04gdmt3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan embraces robots ahead of 2020 Olympics]]></title>
+            <description><![CDATA[The robot getting ready to help visitors at the 2020 Tokyo Olympics with language translation.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37910123</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37910123</guid>
+            <pubDate>Mon, 14 Nov 2016 11:24:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D81A/production/_92322355_p04fm9gg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did millions join secret Facebook group Pantsuit Nation?]]></title>
+            <description><![CDATA[The founder of Pantsuit Nation on why the secret Facebook group, launched at the end of the US election to support Hillary Clinton, was so popular.]]></description>
+            <link>http://www.bbc.co.uk/news/election-us-2016-37987616</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/election-us-2016-37987616</guid>
+            <pubDate>Tue, 15 Nov 2016 12:06:50 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/86C9/production/_92450543_p04gdkpp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children go hands-on with VR headsets]]></title>
+            <description><![CDATA[We asked some of you guys to test out four of the best Virtual Reality Headsets to give us their low down on the pros and cons...]]></description>
+            <link>http://www.bbc.co.uk/newsround/37949548</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsround/37949548</guid>
+            <pubDate>Sun, 13 Nov 2016 20:58:12 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/4519/production/_92398671_jacobwearingthehololens.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US election 2016: US-Mexico drone firm 'watching border closely']]></title>
+            <description><![CDATA[The vice president of a drone firm which has bases in the US and Mexico, says he will be "watching the border very closely", after Donald Trump's election victory.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-37950816</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-37950816</guid>
+            <pubDate>Mon, 14 Nov 2016 12:54:40 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C3D2/production/_92403105_p04fz3j9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: 'Don't be afraid to ask for what you need']]></title>
+            <description><![CDATA[Stacy Brown-Philpot, the boss of TaskRabbit, shares the business advice she wishes she had when she started out.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37909377</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37909377</guid>
+            <pubDate>Sun, 13 Nov 2016 00:28:16 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/53A4/production/_92321412_p04flkf2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drones do light display for Disney and other tech news]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37941436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37941436</guid>
+            <pubDate>Fri, 11 Nov 2016 02:51:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12142/production/_92405047_mediaitem92405046.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The tech helping you stay safe on the streets]]></title>
+            <description><![CDATA[Lara Lewington looks at some of the latest devices that could help you feel safe.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37836096</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37836096</guid>
+            <pubDate>Wed, 09 Nov 2016 08:17:46 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/32AE/production/_92347921_ice_button2_1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robot claims fastest Rubik's Cube solving time]]></title>
+            <description><![CDATA[A robot takes just 0.637 seconds to solve a scrambled Rubik's cube in Germany.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37925033</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37925033</guid>
+            <pubDate>Wed, 09 Nov 2016 13:31:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16855/production/_92354229_p04fqgnw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's Singles Day: The made-up festival]]></title>
+            <description><![CDATA[China's Singles Day has become the biggest shopping bonanza in the world - but how?]]></description>
+            <link>http://www.bbc.co.uk/news/business-37934005</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37934005</guid>
+            <pubDate>Thu, 10 Nov 2016 23:51:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/114C1/production/_92394807_p04fy3t7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank attack: Thefts erode trust warns expert]]></title>
+            <description><![CDATA[A leading cybersecurity expert says thefts from Tesco Bank's online accounts are unlike anything he has ever seen before.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37899900</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37899900</guid>
+            <pubDate>Mon, 07 Nov 2016 14:12:24 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/BCFC/production/_92308384_mediaitem92308383.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How wireless power charging could recharge a flying drone]]></title>
+            <description><![CDATA[BBC Click's Spencer Kelly reports on the tech which could one day wirelessly charge a drone]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37821459</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37821459</guid>
+            <pubDate>Mon, 07 Nov 2016 10:38:16 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/7446/production/_92166792_drone_wireless_charging1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Virtual reality helps WWII veteran revisit his past]]></title>
+            <description><![CDATA[A World War II veteran has returned to the French town he helped to liberate in 1944 with the help of virtual reality.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-37901792</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-37901792</guid>
+            <pubDate>Mon, 07 Nov 2016 17:07:16 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10177/production/_92311956_p04fj623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The chain-smoking robot and other tech news]]></title>
+            <description><![CDATA[BBC Click's Marc Cieslak looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37862454</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37862454</guid>
+            <pubDate>Fri, 04 Nov 2016 00:06:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2F5C/production/_92242121_chain_smoking_robot.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hands on with Huawei's answer to Note 7]]></title>
+            <description><![CDATA[Huawei launches new large-screened phones, including a model co-designed by Porsche, less than a month after Samsung's Note 7 was scrapped.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37859407</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37859407</guid>
+            <pubDate>Thu, 03 Nov 2016 18:01:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/89FC/production/_92242353_p04f27y5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berners-Lee: Right to worry about cybersecurity]]></title>
+            <description><![CDATA[The inventor of the World Wide Web says government "absolutely right" about cyber security concern]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-37832830</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-37832830</guid>
+            <pubDate>Tue, 01 Nov 2016 10:04:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16B16/production/_92205929_p04dthqs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK government cracks down on tax cyber-fraudsters]]></title>
+            <description><![CDATA[The UK's chancellor reveals how cyber-fraudsters using spoofed email addresses have been tackled.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37837098</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37837098</guid>
+            <pubDate>Tue, 01 Nov 2016 13:55:20 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/13377/production/_92211787_mediaitem92211786.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The augmented reality apps helping to decorate your home]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at some of the latest tech to help you decorate your home.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37761202</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37761202</guid>
+            <pubDate>Tue, 01 Nov 2016 00:08:51 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/51D4/production/_92084902_ar_app1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Here East: An Olympian tech hub for London?]]></title>
+            <description><![CDATA[After more than four years, plans are taking shape to turn the old media centre in the London Olympic Village into a hub for technology start-ups.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37799699</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37799699</guid>
+            <pubDate>Sat, 29 Oct 2016 23:28:15 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7E60/production/_92125323_p04dc9kw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[House of Commons app to show how MPs have voted]]></title>
+            <description><![CDATA[A new app will make it quicker and easier to see how MPs have voted in Parliament.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37826078</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37826078</guid>
+            <pubDate>Mon, 31 Oct 2016 16:11:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0B46/production/_92168820_app.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mobile phone reception: How bad is the signal in Cumbria?]]></title>
+            <description><![CDATA[A group of MPs have called on mobile phone companies to allow customers to roam between providers to improve reception.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37811955</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37811955</guid>
+            <pubDate>Sat, 29 Oct 2016 17:04:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13D2/production/_92147050_p04dkg1t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grandmother creates emojis to reflect lives of over 50s]]></title>
+            <description><![CDATA[False teeth and bad back emojis, the brainchild of a frustrated grandmother, could soon be in use after being sent off for official approval.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37799528</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37799528</guid>
+            <pubDate>Fri, 28 Oct 2016 13:55:34 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9616/production/_92122483_p04dg3wb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The robotic caterpillar powered by light and other news]]></title>
+            <description><![CDATA[BBC Click's Lara Lewington looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37786277</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37786277</guid>
+            <pubDate>Thu, 27 Oct 2016 23:14:34 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/16031/production/_92116109_robotic_caterpillar1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vine star Charlie Murphy discusses the service's end]]></title>
+            <description><![CDATA[Charlie Murphy posted one of the most watched videos on Vine, but says that he is not surprised the service is being shut down.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37794948</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37794948</guid>
+            <pubDate>Thu, 27 Oct 2016 19:35:40 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/183DB/production/_92119299_p04dc8sw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The drone designed to fly on one propeller]]></title>
+            <description><![CDATA[BBC Click's Spencer Kelly finds out why a drone with one propeller was created.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37761199</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37761199</guid>
+            <pubDate>Wed, 26 Oct 2016 16:32:52 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/3848/production/_92080441_drone_propeller1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The suitcase with a built-in scooter and other travel tech]]></title>
+            <description><![CDATA[Tommy Sandhu looks at some of the latest travel gadgets]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37706979</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37706979</guid>
+            <pubDate>Tue, 25 Oct 2016 07:37:09 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/51E8/production/_91986902_suitcase_scooter1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The smart mirror which makes customised makeup patches]]></title>
+            <description><![CDATA[BBC Click's Dan Simmons looks at some of the latest technology on show in Japan.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37619960</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37619960</guid>
+            <pubDate>Mon, 24 Oct 2016 11:11:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/01AA/production/_91762400_makeup.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The trainers featuring a mini screen and other tech news]]></title>
+            <description><![CDATA[BBC Click's Marc Cieslak looks at some of the best of the week's technology news.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37719636</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37719636</guid>
+            <pubDate>Thu, 20 Oct 2016 23:39:32 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/131FA/production/_92003387_trainers1920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ordnance Survey has new map to update car sat navs]]></title>
+            <description><![CDATA[Ordnance Survey has come up with a new map database to keep drivers away from dangers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37732260</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37732260</guid>
+            <pubDate>Fri, 21 Oct 2016 14:04:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/FF5B/production/_92017356_p04cqrzr.jpg"/>
+        </item>
+    </channel>
+</rss>

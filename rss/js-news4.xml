@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 11:46:18 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ore Oduba: 'The whole thing has been a circus']]></title>
+            <description><![CDATA[Strictly champion Ore Oduba shows his BBC Sport colleague Sally Nugent some moves on the red carpet at Sports Personality of the Year.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38364747</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38364747</guid>
+            <pubDate>Mon, 19 Dec 2016 09:47:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13E22/production/_93024418_p04lw9x3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Sports Personality of the Year 2016 in 60 seconds]]></title>
+            <description><![CDATA[Watch the best bits from the BBC Sports Personality of the Year 2016.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/38360156</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/38360156</guid>
+            <pubDate>Mon, 19 Dec 2016 06:18:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/143E0/production/_93021928_p04lvn6c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murray: 'Kim voted for Nick Skelton']]></title>
+            <description><![CDATA[Andy Murray receives the BBC Sports Personality of the Year Award for an unprecedented third time - but reveals he was not wife Kim's choice of winner.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/38359560</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/38359560</guid>
+            <pubDate>Sun, 18 Dec 2016 21:29:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/780C/production/_93023703_gettyimagef979970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police release CCTV of 'frenzied' stabbing attack in Barking]]></title>
+            <description><![CDATA[CCTV footage is released of a man being stabbed in what police say was a frenzied and unprovoked attack in east London.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-38365910</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-38365910</guid>
+            <pubDate>Mon, 19 Dec 2016 10:57:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9F3A/production/_93026704_p04lwlkv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suicide: We must end isolation, says campaigner]]></title>
+            <description><![CDATA[A woman whose husband took his own life says people should be encouraged to talk more about suicide, as a group of MPs say more should be done to support those at risk.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38363768</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38363768</guid>
+            <pubDate>Mon, 19 Dec 2016 10:05:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1552E/production/_93024378_p04lwf29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrants go underground in Calais]]></title>
+            <description><![CDATA[Migrants are increasingly returning to Calais two months after the "Jungle" closure, a charity says.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38359934</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38359934</guid>
+            <pubDate>Mon, 19 Dec 2016 00:57:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8CAC/production/_93021063_p04lvktb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luxury cake boss wins The Apprentice]]></title>
+            <description><![CDATA[Luxury cake business owner Alana Spencer has beaten Courtney Wood and his novelty toy business to win The Apprentice.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38359938</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38359938</guid>
+            <pubDate>Mon, 19 Dec 2016 02:41:53 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/C8F2/production/_93024415_mediaitem93024414.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is air pollution really a public health crisis?]]></title>
+            <description><![CDATA[Is air pollution really a public health crisis? Mark Lobel reports.]]></description>
+            <link>http://www.bbc.co.uk/news/38357986</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38357986</guid>
+            <pubDate>Sun, 18 Dec 2016 13:31:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/178E1/production/_93018469_p04ltckc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant birth captured on CCTV at Chester Zoo]]></title>
+            <description><![CDATA[CCTV pictures captured the moment a rare Asian elephant was born at Chester Zoo.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38356859</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38356859</guid>
+            <pubDate>Sun, 18 Dec 2016 14:09:15 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/CF63/production/_93019035_p04ltjkk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bonging' giant gingerbread Big Ben]]></title>
+            <description><![CDATA[The world-famous bell's clock tower is recreated as a giant gingerbread Christmas centrepiece featuring kilos of edible treats.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-norfolk-38332139</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-norfolk-38332139</guid>
+            <pubDate>Sun, 18 Dec 2016 01:27:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13A4A/production/_92985408_p04lkphm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mini police on patrol in Durham]]></title>
+            <description><![CDATA[Durham Police have set up a mini police force involving children from the community.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38356152</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38356152</guid>
+            <pubDate>Sun, 18 Dec 2016 07:25:49 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/3305/production/_93016031_p04lstms.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ore and Joanne win Strictly 2016]]></title>
+            <description><![CDATA[The moment the Strictly Come Dancing 2016 champions find out they have won.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38355058</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38355058</guid>
+            <pubDate>Sun, 18 Dec 2016 04:26:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/103F7/production/_93015566_mediaitem93015565.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HMP Birmingham: Footage shows destruction inside prison]]></title>
+            <description><![CDATA[Footage apparently filmed by inmates of the HMP Birmingham riot has been released.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38353436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38353436</guid>
+            <pubDate>Sat, 17 Dec 2016 21:46:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2739/production/_93014001_p04ls4d8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why do we spend so much at Christmas?]]></title>
+            <description><![CDATA[Christmas brings out the generous spirit in most of us but what tactics are retailers coming up with to get us to spend that bit more?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38342699</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38342699</guid>
+            <pubDate>Sun, 18 Dec 2016 01:23:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6946/production/_93005962_p04lplmr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not enough support for men with eating disorders, charity says]]></title>
+            <description><![CDATA[A man suffering with anorexia says he is effectively dying because he can't get a place for specialist hospital care.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38345766</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38345766</guid>
+            <pubDate>Sun, 18 Dec 2016 11:02:08 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/154B4/production/_93002278_inshortthumbnail3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HMP Birmingham riot: Ex-inmate on prison tensions]]></title>
+            <description><![CDATA[Former HMP Birmingham inmate Roy Beckford says Friday's riots followed weeks of building tensions.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38353433</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38353433</guid>
+            <pubDate>Sat, 17 Dec 2016 18:50:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1865B/production/_93013999_p04lry9f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News jingle dancer in TV studio]]></title>
+            <description><![CDATA[Corville Cuffy dances to the BBC News jingle after footage of him in Leicester Square went viral online.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38346358</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38346358</guid>
+            <pubDate>Fri, 16 Dec 2016 16:05:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/693C/production/_93004962_mediaitem93003016.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transport Secretary Chris Grayling knocks cyclist off bike]]></title>
+            <description><![CDATA[The transport secretary knocked cyclist Jaiqi Liu off his bike as he opened the door of his ministerial car in October.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38346364</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38346364</guid>
+            <pubDate>Fri, 16 Dec 2016 18:48:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1057C/production/_93004966_p04lpq9h.jpg"/>
+        </item>
+    </channel>
+</rss>

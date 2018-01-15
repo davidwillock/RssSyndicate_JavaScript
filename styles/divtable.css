@@ -1,0 +1,182 @@
+
+.divTable {
+	display: table;
+	width: 100%;
+       
+	}
+
+
+.divTableRow{
+            
+              
+display: table-row;
+             
+}
+/*
+.m_ {
+    
+    
+    top :0px;
+    left: 0px;
+    position: relative;
+    z-index: 1;
+    
+    
+}
+*/
+/*
+#m_:hover .hoverTable {
+    
+   position : absolute;
+   left : 0px;
+   top: 0px;
+   display:inline-block;
+ 
+    opacity: 1;
+}
+*/
+
+.hoverTable {
+    
+   position : absolute;
+   left : 0px;
+   top: 0px;
+  
+    z-index: 1; 
+}
+
+
+
+
+.hoverTable:hover {
+    
+   position : absolute;
+   left : 0px;
+   top: 0px;
+   z-index: 1;
+    opacity: 1;
+}
+
+
+
+
+
+/* Reset */
+html,body,div,span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	-webkit-text-size-adjust: none;
+}
+
+/* Box Model */
+*,:before,:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.tableCell {
+	padding: 1px;
+	float: left;
+	cursor: pointer;
+}
+.tableCell div{
+	border: 1px solid #aaa;
+	height: 15px;
+	width: 15px;
+	overflow: hidden;
+	text-indent: 999px;
+}
+
+
+#hoverTableCont {
+    margin-left: 0px;
+    float: left;
+    top: 0px;
+   
+    
+    
+}
+
+._hoverTableCont:hover .hoverTable{
+    margin-left: 0px;
+    float: left;
+    display:inline-block;
+    top: 0px;
+    left: 0px;
+}
+
+.hoverTable {
+    background: url(images/matrix.jpg) center center;
+    padding: 5px 5px 22px 5px;
+   /* display:none; */
+    position: absolute;
+    top: 0px;
+}
+
+.tableRow {
+    display: block;
+    clear: both;
+}
+
+.selectedCell {
+    background-color: #FFF;
+}
+.tableCell div {
+    background-color: #FFF;
+    /* background-color: #555; */
+}
+.higlightCell div {
+    background-color: #FFF;
+    /* background-color: #999; */
+}
+.tableCell:hover div{
+	background-color: #FFF;
+}
+
+#tablewidthunit {
+    width: 45px;
+}
+#tablewidth {
+    width: 100px;
+    float: left;
+}
+#indentCode {
+    display: inline-block;
+    background: url("/images/indent.png") center center no-repeat;
+    cursor: pointer;
+    padding: 3px 10px 1px;
+    border: 1px solid transparent;
+    height: 30px;
+    overflow: hidden;
+    width: 36px;
+    text-indent: 999px;
+}
+#indentCode:hover {
+	background-color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+       /* background-color: #E3E3E3; */
+      /*  border: 1px solid #CCCCCC; */
+}
+
+
+
+
+
+
+
+

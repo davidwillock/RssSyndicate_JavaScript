@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 11:52:15 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hollywood star Zsa Zsa Gabor dies aged 99]]></title>
+            <description><![CDATA[The Hungarian-born actress was more famous for her personal life than her on-screen roles.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38360675</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38360675</guid>
+            <pubDate>Mon, 19 Dec 2016 00:12:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B6DC/production/_93021864_p04lvqjp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joseph Kabila: The DR Congo president who won't step down]]></title>
+            <description><![CDATA[There is concern that unrest may erupt in DR Congo as the deadline looms for the president to step down.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38364659</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38364659</guid>
+            <pubDate>Mon, 19 Dec 2016 09:17:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16028/production/_93025109_p04lw9t4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China finds new love for wildlife films]]></title>
+            <description><![CDATA[British-Chinese cameraman Jacky Poon is one of a few professionals documenting endangered animals in China.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-38349285</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-38349285</guid>
+            <pubDate>Mon, 19 Dec 2016 00:20:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7FD2/production/_93022723_p04lq5b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrants go underground in Calais]]></title>
+            <description><![CDATA[Migrants are increasingly returning to Calais two months after the "Jungle" closure, a charity says.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38359934</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38359934</guid>
+            <pubDate>Mon, 19 Dec 2016 00:57:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8CAC/production/_93021063_p04lvktb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump says supporters after US election 'mellowed']]></title>
+            <description><![CDATA[Donald Trump tells his supporters they were 'mean and nasty' during the US election campaign.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38355311</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38355311</guid>
+            <pubDate>Sat, 17 Dec 2016 23:30:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C379/production/_93014005_p04lsb08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela's President delays plans to withdraw 100-bolivar note]]></title>
+            <description><![CDATA[President Maduro has made a sudden change of policy after people spent days queuing to swap their notes for new larger bills that did not arrive in time.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-38355066</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-38355066</guid>
+            <pubDate>Sun, 18 Dec 2016 05:19:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D5DF/production/_93015745_p04lspxd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joseph Kabila, DR Congo and conflict explained]]></title>
+            <description><![CDATA[President Joseph Kabila's decision to extend his term in office heightens tension in DR Congo, already destabilised by numerous armed groups.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38343924</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38343924</guid>
+            <pubDate>Sun, 18 Dec 2016 11:58:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AA78/production/_93004634_p04lpcs2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Outrage over Moscow restaurant name]]></title>
+            <description><![CDATA[A Moscow restaurant calling itself NKVD - the name of the Stalin-era Soviet secret police - has been heavily criticised by campaigners and on social media.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38347432</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38347432</guid>
+            <pubDate>Sun, 18 Dec 2016 00:22:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8818/production/_93004843_p04lpb70.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jong-il death: North Koreans mark fifth anniversary]]></title>
+            <description><![CDATA[North Koreans pay tribute to their former leader Kim Jong-il on the fifth anniversary of his death.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38353343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38353343</guid>
+            <pubDate>Sat, 17 Dec 2016 16:05:18 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F0B5/production/_93012616_p04lrn9r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Obama pauses press conference to help sick reporter]]></title>
+            <description><![CDATA[US President Barack Obama paused his final end-of-year press conference to get help for a reporter who fell ill.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38349383</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38349383</guid>
+            <pubDate>Fri, 16 Dec 2016 22:16:11 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B8A6/production/_93007274_p04lq6h6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polish protesters block parliament]]></title>
+            <description><![CDATA[Protesters have blockaded the Polish parliament in Warsaw in support of opposition MPs unhappy about rules restricting press reporting.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38350709</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38350709</guid>
+            <pubDate>Sat, 17 Dec 2016 08:35:47 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/A6B8/production/_93008624_p04lqtwn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mermaid training in China]]></title>
+            <description><![CDATA[Swimmers at one Chinese aquarium are learning how to be mermaids.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38352098</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38352098</guid>
+            <pubDate>Sat, 17 Dec 2016 13:15:17 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/17C6E/production/_93009379_p04lr9cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How this Green book helped black travellers in the US]]></title>
+            <description><![CDATA[The BBC Travel Show looks at how a guide helped black travellers during segregation.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38334412</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38334412</guid>
+            <pubDate>Sat, 17 Dec 2016 00:15:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17142/production/_93003549_p04lp2mg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Being disabled in Sierra Leone]]></title>
+            <description><![CDATA[A group of disabled people in Sierra Leone, with nowhere else to go, built their own commune on some wasteland in Freetown.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38344976</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38344976</guid>
+            <pubDate>Sat, 17 Dec 2016 00:20:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7D9F/production/_92995123_p04lp6df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was Putin involved in US election hacking?]]></title>
+            <description><![CDATA[A former CIA director believes that he may have been.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38338569</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38338569</guid>
+            <pubDate>Fri, 16 Dec 2016 07:22:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1620F/production/_92993609_tv036905157.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michelle Obama: 'Now we’re feeling what not having hope feels like']]></title>
+            <description><![CDATA[Michelle Obama speaks to Oprah Winfrey as she prepares to leave the White House.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38341856</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38341856</guid>
+            <pubDate>Fri, 16 Dec 2016 16:11:34 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/7936/production/_93003013_p04lp3sq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duterte confirms killings to BBC]]></title>
+            <description><![CDATA[The President of the Philippines Rodrigo Duterte confirms to the BBC that he shot dead three men while mayor of Davao.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38345746</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38345746</guid>
+            <pubDate>Fri, 16 Dec 2016 15:57:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/459C/production/_93002871_p04lnx9r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gambia's leader Yahya Jammeh keeps changing his mind]]></title>
+            <description><![CDATA[Gambian President Yahya Jammeh shocked many when he appeared to gracefully accept defeat in the presidential election.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38330730</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38330730</guid>
+            <pubDate>Fri, 16 Dec 2016 16:13:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/086F/production/_92995120_p04lp387.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese firm unveils 'virtual wife' to battle loneliness]]></title>
+            <description><![CDATA[A Japanese company creates a smart home device that doubles up as a "virtual wife" for single men.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38337758</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38337758</guid>
+            <pubDate>Fri, 16 Dec 2016 13:26:52 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/CDA9/production/_92994625_mediaitem92994623.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What next for people of Aleppo?]]></title>
+            <description><![CDATA[Jeremy Bowen explains what's at stake for the people of Aleppo who have left and for those that have remained.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-38340436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-38340436</guid>
+            <pubDate>Fri, 16 Dec 2016 10:26:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/17867/production/_92995369_p04lmmyh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aleppo fighting: Orphans in video plea to leave city]]></title>
+            <description><![CDATA[The Syrian American Medical Society (SAMS) releases a video it says is of a group of orphans trapped by the shelling in Aleppo.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-38326906</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-38326906</guid>
+            <pubDate>Thu, 15 Dec 2016 11:47:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8333/production/_92978533_p04lj8cv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aleppo Syria battle: Aerial footage shows evacuation]]></title>
+            <description><![CDATA[Aerial footage has captured the operation to evacuate people from rebel-held eastern Aleppo.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-38335147</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-38335147</guid>
+            <pubDate>Thu, 15 Dec 2016 17:46:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/78B2/production/_92989803_p04lkmgw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela pulls 100-bolivar note]]></title>
+            <description><![CDATA[The government has unexpectedly pulled 100-bolivar banknotes, saying it will help combat cross-border smuggling and hoarding in Colombia.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-38333388</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-38333388</guid>
+            <pubDate>Fri, 16 Dec 2016 00:01:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17A8D/production/_92990969_p04lkz62.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duterte killing claim 'should not be taken literally', says Martin Andanar.]]></title>
+            <description><![CDATA[President Duterte's apparent admission of killing criminal suspects should not be taken literally, says his spokesman, Martin Andanar.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38339440</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38339440</guid>
+            <pubDate>Fri, 16 Dec 2016 10:17:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/84A7/production/_92995933_p04lmq38.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A walk through a laser-scanned forest]]></title>
+            <description><![CDATA[Why scientists are weighing the rainforests with lasers.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38335348</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38335348</guid>
+            <pubDate>Fri, 16 Dec 2016 00:02:14 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/150C1/production/_92990268_mediaitem92990265.jpg"/>
+        </item>
+    </channel>
+</rss>

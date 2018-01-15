@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Health]]></title>
+        <description><![CDATA[BBC News - Health]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Health</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 12:00:04 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Suicide: We must end isolation, says campaigner]]></title>
+            <description><![CDATA[A woman whose husband took his own life says people should be encouraged to talk more about suicide, as a group of MPs say more should be done to support those at risk.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38363768</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38363768</guid>
+            <pubDate>Mon, 19 Dec 2016 10:05:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1552E/production/_93024378_p04lwf29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is air pollution really a public health crisis?]]></title>
+            <description><![CDATA[Is air pollution really a public health crisis? Mark Lobel reports.]]></description>
+            <link>http://www.bbc.co.uk/news/38357986</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38357986</guid>
+            <pubDate>Sun, 18 Dec 2016 13:31:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/178E1/production/_93018469_p04ltckc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The toddler saved from meningitis on Christmas Day]]></title>
+            <description><![CDATA[Viki Cooper tells the Victoria Derbyshire programme about her son Ben's fight for life after suffering from meningitis.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38341851</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38341851</guid>
+            <pubDate>Fri, 16 Dec 2016 11:45:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9591/production/_92998283_p04ln16x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Casualty set hosts mannequin challenge with NHS staff]]></title>
+            <description><![CDATA[The BBC set of Casualty hosts off-duty NHS staff for a mannequin challenge.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38335153</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38335153</guid>
+            <pubDate>Fri, 16 Dec 2016 00:03:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0081/production/_92992100_p04llsnf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-soldier shows BBC secrets behind his style]]></title>
+            <description><![CDATA[A veteran, who lost both legs in Afghanistan, shows the BBC the secrets behind his style.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38335148</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38335148</guid>
+            <pubDate>Thu, 15 Dec 2016 23:55:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1CA1/production/_92992370_p04llkyy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three-person babies approved in UK]]></title>
+            <description><![CDATA[Hannah Smith is one of those that will benefit the decision to allow babies made from two women and one man.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38335155</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38335155</guid>
+            <pubDate>Thu, 15 Dec 2016 22:42:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10DA5/production/_92992096_p04lllln.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The woman with Down's ... and a cookie business]]></title>
+            <description><![CDATA[Collette Divitto was fed up of being told she 'wasn't the right fit' for jobs, so she started her own cookie business.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38325971</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38325971</guid>
+            <pubDate>Thu, 15 Dec 2016 10:01:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3513/production/_92978531_p04lhyl0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I gave too much' - man who ran 401 marathons]]></title>
+            <description><![CDATA[Ben Smith tells the BBC how his mental health has been affected after running 401 marathons in 401 days.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38326902</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38326902</guid>
+            <pubDate>Thu, 15 Dec 2016 09:20:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6529/production/_92979852_p04lhrrk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dog saliva almost killed me']]></title>
+            <description><![CDATA[David Money was in a coma for six weeks after a dog lick led to a rare infection, but he says he won't give up his dogs.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38314220</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38314220</guid>
+            <pubDate>Wed, 14 Dec 2016 10:25:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BD3E/production/_92964484_p04l8sn0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Customer wins £90k after shampoo and rinse causes stroke]]></title>
+            <description><![CDATA[A man from Brighton has received £90,000 in compensation from a hair salon after doctors said his shampoo and rinse gave him a stroke.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38293884</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38293884</guid>
+            <pubDate>Tue, 13 Dec 2016 00:18:04 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/13617/production/_92938397_p04l3rzn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lucy Vincent: Prison meals need nutritional overhaul]]></title>
+            <description><![CDATA[Lucy Vincent says meals in prisons are often substandard and need a nutritional overhaul.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38294568</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38294568</guid>
+            <pubDate>Mon, 12 Dec 2016 15:51:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3BBD/production/_92939251_p04l3xj3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social care funding shortfall 'urgent' says Lib Dem Norman Lamb]]></title>
+            <description><![CDATA[Liberal Democrat Health spokesman, Norman Lamb, urges government action on the crisis in social care funding.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38294749</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38294749</guid>
+            <pubDate>Mon, 12 Dec 2016 18:26:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AA5E/production/_92941634_p04l49tx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hertfordshire mum spends second Christmas waiting for a new liver]]></title>
+            <description><![CDATA[A mother who has waited for a year and a half for a liver transplant said she hopes a donor comes forward this Christmas.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-38296369</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-38296369</guid>
+            <pubDate>Mon, 12 Dec 2016 20:21:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7D7C/production/_92942123_p04l44yd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The families living in unsafe rented flats]]></title>
+            <description><![CDATA[The BBC's Richard Bilton sees the work of one housing team in Liverpool examining the safety of rented properties.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38283584</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38283584</guid>
+            <pubDate>Sun, 11 Dec 2016 23:42:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/116C2/production/_92926317_p04l1tqj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One man's story of becoming a father at 60]]></title>
+            <description><![CDATA[Older dad Paul, who had his daughter Isabella when he was 60, tells the BBC's World Have Your Say what it is like to have a child in later life.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38290968</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38290968</guid>
+            <pubDate>Mon, 12 Dec 2016 12:15:01 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/CCDB/production/_92934425_p04l30jr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man persuaded to get cancer test at MoT]]></title>
+            <description><![CDATA[Thomas was diagnosed with prostate cancer after Errol McKellar - mechanic and cancer survivor - persuaded him to get a test during a visit to his garage.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38244534</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38244534</guid>
+            <pubDate>Thu, 08 Dec 2016 10:49:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2F91/production/_92877121_p04kk4j9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two women's different stories of fat shaming]]></title>
+            <description><![CDATA[One woman tells the BBC's World Have Your Say how fat shaming helped her to change her lifestyle, while another said abuse made her suicidal.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38254041</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38254041</guid>
+            <pubDate>Thu, 08 Dec 2016 14:04:51 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1193E/production/_92889917_p04knhbx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reluctantly casting doubt on 'life-saving' stoves]]></title>
+            <description><![CDATA[Research casts doubt on a global mission to use cleaner-burning stoves, to prevent pollution-induced illness in the world's poorest children.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38224437</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38224437</guid>
+            <pubDate>Wed, 07 Dec 2016 00:02:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17679/production/_92856859_mediaitem92856858.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bucket list student Matt Greenwood 'overwhelmed by support']]></title>
+            <description><![CDATA[A 21-year-old bone cancer patient says he's been overwhelmed by the support of friends who've raised more than £56,000 to help him achieve his bucket list.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38214115</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38214115</guid>
+            <pubDate>Tue, 06 Dec 2016 00:51:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AE50/production/_92842644_p04k8sjv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's lovely to find out about their lives']]></title>
+            <description><![CDATA[A young care home worker describes the positive side of her role.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38206930</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38206930</guid>
+            <pubDate>Mon, 05 Dec 2016 12:03:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/38B1/production/_92831541_p04k7jvs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenya strike: Patient's brother says strike is "inhumane"]]></title>
+            <description><![CDATA[The brother of a patient in a Kenyan hospital tells the BBC's World Have Your Say he thinks the doctors' strike over pay is "inhumane".]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38221516</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38221516</guid>
+            <pubDate>Tue, 06 Dec 2016 16:52:35 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/0892/production/_92849120_p04kdkrj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pill could reduce HIV risk by 86%]]></title>
+            <description><![CDATA[A drug that reduces the risk of being infected with HIV will be given to NHS patients in England.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38199561</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38199561</guid>
+            <pubDate>Sun, 04 Dec 2016 08:27:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="574" url="http://c.files.bbci.co.uk/BDF8/production/_92823684_p04k3k0m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry and Rihanna get HIV tests in Barbados]]></title>
+            <description><![CDATA[Prince Harry and Rihanna have taken HIV tests together in Barbados to raise awareness on World Aids Day.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38175960</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38175960</guid>
+            <pubDate>Thu, 01 Dec 2016 23:06:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/86B9/production/_92798443_p04jvc5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm called a slut for being openly HIV+']]></title>
+            <description><![CDATA[Tom Hayes discusses how there is still a stigma on HIV-infected people]]></description>
+            <link>http://www.bbc.co.uk/news/health-38172868</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38172868</guid>
+            <pubDate>Thu, 01 Dec 2016 14:42:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1553E/production/_92785378_p04jqsz2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How did World Aids Day come about?]]></title>
+            <description><![CDATA[In 1988 around 140 countries took part in the first World Aids Day to raise awareness of the epidemic]]></description>
+            <link>http://www.bbc.co.uk/news/health-38161953</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38161953</guid>
+            <pubDate>Thu, 01 Dec 2016 09:03:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1655F/production/_92778419_p04jnplg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens when someone calls 999]]></title>
+            <description><![CDATA[BBC Scotland follows a 999 call from the moment it is received by health service call handlers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38157230</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38157230</guid>
+            <pubDate>Wed, 30 Nov 2016 10:43:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/087C/production/_92727120_p04jj6rg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['She suddenly stopped eating']]></title>
+            <description><![CDATA[The ITN newsreader talks about struggling to get the right care.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38148899</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38148899</guid>
+            <pubDate>Tue, 29 Nov 2016 15:08:31 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/1605A/production/_92720209_mediaitem92720208.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are trampoline parks safe enough?]]></title>
+            <description><![CDATA[A group of organisations, including the governing body of gymnastics, want trampoline parks to adhere to a set of safety guidelines.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38156990</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38156990</guid>
+            <pubDate>Wed, 30 Nov 2016 10:40:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13788/production/_92725797_p04jj7ly.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A father and son talk about their experience battling OCD]]></title>
+            <description><![CDATA[Richard has suffered from Obsessive Compulsive Disorder since he was a teenager. He and his father have been talking about their lives.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38145502</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38145502</guid>
+            <pubDate>Tue, 29 Nov 2016 13:51:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13C73/production/_92711018_p04jbzjq.jpg"/>
+        </item>
+    </channel>
+</rss>

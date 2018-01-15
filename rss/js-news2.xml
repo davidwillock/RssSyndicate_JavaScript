@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 11:52:09 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Post Office workers lead week of strikes]]></title>
+            <description><![CDATA[Post Office and rail workers are striking in a week that could also see disruption to air passengers.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38359640</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38359640</guid>
+            <pubDate>Mon, 19 Dec 2016 11:18:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/160A/production/_93024650_strikes.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Send heavy drinkers for liver scan, GPs told]]></title>
+            <description><![CDATA[Women who drink more than three-and-a-half bottles of wine a week should get their livers checked, say guidelines.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38364331</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38364331</guid>
+            <pubDate>Mon, 19 Dec 2016 10:47:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18152/production/_93024689_thinkstockphotos-486311567.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ticket re-sellers to be investigated]]></title>
+            <description><![CDATA[An investigation into the secondary tickets market has been launched by the competition regulator.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38366485</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38366485</guid>
+            <pubDate>Mon, 19 Dec 2016 11:50:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EBD7/production/_92457306_gig_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rabbi Lionel Blue dies aged 86]]></title>
+            <description><![CDATA[Rabbi Lionel Blue, a regular on BBC Radio 4's Thought for the Day and the first openly gay British rabbi, dies.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38365805</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38365805</guid>
+            <pubDate>Mon, 19 Dec 2016 11:47:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0624/production/_93027510_416f668d-3606-46a9-90dc-32ec0d1225b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[101-year-old Ralph Clarke jailed for child sex offences]]></title>
+            <description><![CDATA[A 101-year-old British man is jailed for 13 years for historical child sex offences.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38367103</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38367103</guid>
+            <pubDate>Mon, 19 Dec 2016 11:49:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F797/production/_92838336_hi036738343.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RHI scandal: MLAs walk out of Assembly for second time]]></title>
+            <description><![CDATA[Members of Northern Ireland's Assembly walk out of the chamber for a second time.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38363206</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38363206</guid>
+            <pubDate>Mon, 19 Dec 2016 11:27:14 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/167A8/production/_93027029_emptychamberc0chcfhxgaay4ru.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man admits Matalan double murder]]></title>
+            <description><![CDATA[A man pleads guilty to murdering Matalan workers Zoe Morgan and Lee Simmons outside the shop in Cardiff city centre.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-38364011</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-38364011</guid>
+            <pubDate>Mon, 19 Dec 2016 11:13:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11C50/production/_91448727_leesimmonszoemorgan2jpg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farmers using food banks after government payment delay]]></title>
+            <description><![CDATA[Hill farmers are left using food banks following the government's failure to pay more than a thousand of them an EU subsidy, the BBC learns.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-37657855</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-37657855</guid>
+            <pubDate>Mon, 19 Dec 2016 10:03:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EBDE/production/_91928306_de28.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Income tax powers for Wales set to come in 2019]]></title>
+            <description><![CDATA[Income tax rates in Wales could be varied from April 2019 as part of a deal with the UK Treasury.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-politics-38345168</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-politics-38345168</guid>
+            <pubDate>Mon, 19 Dec 2016 11:40:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FD2A/production/_93001846_money.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big donation for fire-damaged art school]]></title>
+            <description><![CDATA[A charity donates £450,000 to help the Glasgow School of Art (GSA) repair the fire-damaged Mackintosh building and expand its Garnethill campus.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-glasgow-west-38364436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-glasgow-west-38364436</guid>
+            <pubDate>Mon, 19 Dec 2016 10:41:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18369/production/_89377199_89377198.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India v England: Karun Nair makes 300 in fifth Test in Chennai]]></title>
+            <description><![CDATA[India's Karun Nair makes a triple century to pummel an England side that must bat out the final day to avoid defeat in the fifth Test.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/38364934</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/38364934</guid>
+            <pubDate>Mon, 19 Dec 2016 11:50:18 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/11334/production/_93025407_karunnair.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ore Oduba: 'The whole thing has been a circus']]></title>
+            <description><![CDATA[Strictly champion Ore Oduba shows his BBC Sport colleague Sally Nugent some moves on the red carpet at Sports Personality of the Year.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38364747</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38364747</guid>
+            <pubDate>Mon, 19 Dec 2016 09:47:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13E22/production/_93024418_p04lw9x3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Sports Personality of the Year 2016 in 60 seconds]]></title>
+            <description><![CDATA[Watch the best bits from the BBC Sports Personality of the Year 2016.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/38360156</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/38360156</guid>
+            <pubDate>Mon, 19 Dec 2016 06:18:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/143E0/production/_93021928_p04lvn6c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murray: 'Kim voted for Nick Skelton']]></title>
+            <description><![CDATA[Andy Murray receives the BBC Sports Personality of the Year Award for an unprecedented third time - but reveals he was not wife Kim's choice of winner.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/38359560</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/38359560</guid>
+            <pubDate>Sun, 18 Dec 2016 21:29:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/780C/production/_93023703_gettyimagef979970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police release CCTV of 'frenzied' stabbing attack in Barking]]></title>
+            <description><![CDATA[CCTV footage is released of a man being stabbed in what police say was a frenzied and unprovoked attack in east London.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-38365910</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-38365910</guid>
+            <pubDate>Mon, 19 Dec 2016 10:57:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9F3A/production/_93026704_p04lwlkv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suicide: We must end isolation, says campaigner]]></title>
+            <description><![CDATA[A woman whose husband took his own life says people should be encouraged to talk more about suicide, as a group of MPs say more should be done to support those at risk.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38363768</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38363768</guid>
+            <pubDate>Mon, 19 Dec 2016 10:05:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1552E/production/_93024378_p04lwf29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrants go underground in Calais]]></title>
+            <description><![CDATA[Migrants are increasingly returning to Calais two months after the "Jungle" closure, a charity says.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38359934</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38359934</guid>
+            <pubDate>Mon, 19 Dec 2016 00:57:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8CAC/production/_93021063_p04lvktb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luxury cake boss wins The Apprentice]]></title>
+            <description><![CDATA[Luxury cake business owner Alana Spencer has beaten Courtney Wood and his novelty toy business to win The Apprentice.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38359938</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38359938</guid>
+            <pubDate>Mon, 19 Dec 2016 02:41:53 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/C8F2/production/_93024415_mediaitem93024414.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands join Christmas jumper record bid]]></title>
+            <description><![CDATA[Thousands turn out in Londonderry to try and break the world record for the most Christmas jumpers in one place.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38363797</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38363797</guid>
+            <pubDate>Mon, 19 Dec 2016 09:08:51 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BCE0/production/_93025384_15493666_1826349000940441_7533380667098955347_o.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: Mail misery, foreign aid, prison riot, traffic fines and Murray wins]]></title>
+            <description><![CDATA[The threat of industrial action by Royal Mail staff and Andy Murray's unprecedented third Sport Personality win are on the front pages.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-38360072</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-38360072</guid>
+            <pubDate>Mon, 19 Dec 2016 05:58:51 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1024A/production/_93022166_index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lionel Blue]]></title>
+            <description><![CDATA[Rabbi Lionel Blue's jocular pronouncements on the BBC's Thought For the Day were a feature for more than 25 years.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-12128766</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-12128766</guid>
+            <pubDate>Mon, 19 Dec 2016 10:49:30 GMT</pubDate>
+            <media:thumbnail width="511" height="287" url="http://c.files.bbci.co.uk/07F4/production/_87263020_87263019.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cash-for-ash scandal]]></title>
+            <description><![CDATA[BBC News NI answers commonly asked questions about the scandal surrounding the Renewable Heat Incentive scheme.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38307628</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38307628</guid>
+            <pubDate>Tue, 13 Dec 2016 16:31:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3683/production/_92955931__56304098_013142129-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy eating]]></title>
+            <description><![CDATA[How to dodge food poisoning this Christmas]]></description>
+            <link>http://www.bbc.co.uk/news/health-38304077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38304077</guid>
+            <pubDate>Mon, 19 Dec 2016 09:44:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D12B/production/_92974535_dinner.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['You're skiving']]></title>
+            <description><![CDATA[There are calls for a major rethink of how employees are treated when a relative dies.]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/38300458</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/38300458</guid>
+            <pubDate>Mon, 19 Dec 2016 05:18:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A754/production/_92963824_thinkstockswing.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A watery grave]]></title>
+            <description><![CDATA[A dozen or so people every year are buried at sea off the British Isles. Here are a few things you might not know about it.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38210497</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38210497</guid>
+            <pubDate>Mon, 19 Dec 2016 00:53:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CC62/production/_93022325_burial.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Up from the deep]]></title>
+            <description><![CDATA[BBC News catches up with some of the 450 men who worked at Kellingley Colliery, a year after it closed for good.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-38345709</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-38345709</guid>
+            <pubDate>Mon, 19 Dec 2016 01:01:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11A82/production/_93022327_hi030624643.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Night riders]]></title>
+            <description><![CDATA[Across the UK, volunteer motorcyclists help the NHS by delivering blood. What motivates them?]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38330814</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38330814</guid>
+            <pubDate>Sun, 18 Dec 2016 00:46:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17564/production/_92988559_isabelplatt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly 2016]]></title>
+            <description><![CDATA[The 2016 series of Strictly Come Dancing has come to an end. Here are some of the most memorable images from this year's competition.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38356990</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38356990</guid>
+            <pubDate>Sun, 18 Dec 2016 10:46:59 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1703F/production/_93017249_balls.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Culinary revival]]></title>
+            <description><![CDATA[Why have we fallen in love with our slow cookers all over again?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38286715</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38286715</guid>
+            <pubDate>Sun, 18 Dec 2016 01:06:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14D8A/production/_92968358_thinkstockphotos-178749385.jpg"/>
+        </item>
+    </channel>
+</rss>

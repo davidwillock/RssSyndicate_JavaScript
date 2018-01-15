@@ -1,0 +1,918 @@
+/* Ticker Styling */
+
+
+/*
+/*display: table-cell;*/
+
+
+.ticker-swipe-0 {
+padding-top: 9px;
+position: absolute;
+top: 48%;
+/*background-color: #ffffff;  */
+display: block;
+width: 1500px; 
+height: 90px;
+}
+
+
+.ticker-content-0:focus {
+ display: none;
+}
+.ticker-content-0 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-0 span {
+margin-left: 1px;
+
+border-bottom: 1px solid #4285f4;
+height: 20px;
+width: 7px;
+display: block;
+}
+*/
+
+
+
+
+
+
+.ticker-swipe-1 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 80px;
+}
+
+
+.ticker-content-1:focus {
+ display: none;
+}
+.ticker-content-1 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+color: #FFFFFF;
+
+}
+/*
+.ticker-swipe-1 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+}
+*/
+
+
+.ticker-swipe-2 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+
+.ticker-content-2:focus {
+ display: none;
+}
+.ticker-content-2 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-2 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+}
+*/
+.ticker-swipe-3 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-3:focus {
+ display: none;
+}
+.ticker-content-3 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-3 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+}
+*/
+.ticker-swipe-4 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-4:focus {
+ display: none;
+}
+.ticker-content-4 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-4 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+.ticker-swipe-5 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-5:focus {
+ display: none;
+}
+.ticker-content-5 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-5 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+.ticker-swipe-6 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-6:focus {
+ display: none;
+}
+.ticker-content-6 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-6 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+.ticker-swipe-7 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-7:focus {
+ display: none;
+}
+.ticker-content-7 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-7 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+}
+*/
+
+
+
+
+
+.ticker-swipe-8 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-8:focus {
+ display: none;
+}
+.ticker-content-8 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+
+/*
+.ticker-swipe-8 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+.ticker-swipe-9 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-9:focus {
+ display: none;
+}
+.ticker-content-9 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-9 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+.ticker-swipe-10 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-10:focus {
+ display: none;
+}
+.ticker-content-10 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+
+/*
+.ticker-swipe-10 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+.ticker-swipe-11 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-11:focus {
+ display: none;
+}
+.ticker-content-11 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-11 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+.ticker-swipe-12 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-12:focus {
+ display: none;
+}
+.ticker-content-12 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-12 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+
+
+.ticker-swipe-13 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-13:focus {
+ display: none;
+}
+.ticker-content-13 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-13 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+.ticker-swipe-14 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-14:focus {
+ display: none;
+}
+.ticker-content-14 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-14 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+.ticker-swipe-15 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-15:focus {
+ display: none;
+}
+.ticker-content-15 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-15 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+.ticker-swipe-16 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-16:focus {
+ display: none;
+}
+.ticker-content-16 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-16 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+.ticker-swipe-17 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-17:focus {
+ display: none;
+}
+.ticker-content-17 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-17 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+
+*/
+
+
+
+
+.ticker-swipe-18 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-18:focus {
+ display: none;
+}
+.ticker-content-18 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-18 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+
+
+
+
+.ticker-swipe-19 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-19:focus {
+ display: none;
+}
+.ticker-content-19 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+
+/*
+.ticker-swipe-19 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+.ticker-swipe-20 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-20:focus {
+ display: none;
+}
+.ticker-content-20 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+
+/*
+.ticker-swipe-20 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+
+
+
+
+
+
+.ticker-swipe-21 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-21:focus {
+ display: none;
+}
+.ticker-content-21 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-21 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+.ticker-swipe-22 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-22:focus {
+ display: none;
+}
+.ticker-content-22 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-22 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+.ticker-swipe-23 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-23:focus {
+ display: none;
+}
+.ticker-content-23 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-23 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+.ticker-swipe-24 {
+padding-top: 0px;
+position: absolute;
+top: 48%;
+background-color: #ffffff;
+display: block;
+width: 1500px; 
+height: 60px;
+}
+
+
+.ticker-content-24:focus {
+ display: none;
+}
+.ticker-content-24 a {
+text-decoration: none;
+text-shadow: 1px 0px 3px rgb(159, 92, 74);
+font-family:inherit;
+color: #FFFFFF;
+}
+/*
+.ticker-swipe-24 span {
+margin-left: 1px;
+background-color: #4285f4;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.ticker-content-1 a {
+text-decoration: none;
+color: #ffffff;
+text-align: left;
+}
+*/
+/*
+.ticker-swipe-0 span {
+margin-left: 1px;
+background-color: #ffffff;
+border-bottom: 1px solid #4285f4;
+height: 12px;
+width: 7px;
+display: block;
+}
+*/
+
+/*
+.ticker-content-0 a {
+text-decoration: none;
+color: #ffffff;
+text-align: left;
+}
+*/
+
+  .ticker-title,  .ticker{
+float: left;
+}

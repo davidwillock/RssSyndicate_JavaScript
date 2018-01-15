@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Scotland]]></title>
+        <description><![CDATA[BBC News - Scotland]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Scotland</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 12:04:39 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[BBC Sports Personality of the Year 2016: Andy Murray's incredible 2016]]></title>
+            <description><![CDATA[BBC Sport looks back at the achievements in 2016 which led to Andy Murray being crowned Sports Personality of the Year for a record third time.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/38360152</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/38360152</guid>
+            <pubDate>Sun, 18 Dec 2016 21:54:34 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/B4E8/production/_93021364_lennoxlewisandandymurray.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corrie Mckeague family and public search Suffolk forest]]></title>
+            <description><![CDATA[About 60 members of the public join family and friends of a missing airman to search a Suffolk forest to look for evidence he was hit by a vehicle.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-suffolk-38354023</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-suffolk-38354023</guid>
+            <pubDate>Sat, 17 Dec 2016 17:39:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15CD/production/_93018550_urquhart0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disappearing walls and hidden bath wins Riba House of the Year]]></title>
+            <description><![CDATA[A property in Edinburgh with a hidden bath and disappearing walls is named house of the year by the RIBA.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38345343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38345343</guid>
+            <pubDate>Fri, 16 Dec 2016 18:03:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D2B4/production/_93004935_p04lpk7j.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judy Murray does not want grand-daughter to play tennis]]></title>
+            <description><![CDATA[Judy Murray says she "can't think of anything worse" for her grand-daughter than the pressure of playing tennis.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38340721</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38340721</guid>
+            <pubDate>Fri, 16 Dec 2016 13:08:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12AD3/production/_92999467_p04lncxd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glasgow Gaelic School performs Christmas pantomime]]></title>
+            <description><![CDATA[BBC Scotland's Aileen Clarke takes a look behind the scenes at the Glasgow Gaelic School Christmas pantomime.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38348679</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38348679</guid>
+            <pubDate>Fri, 16 Dec 2016 21:26:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C6AC/production/_93006805_p04lq4ny.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone footage shows excavation in missing woman hunt]]></title>
+            <description><![CDATA[Drone footage shows police excavating the garden of a house in Inverkip in the search for Margaret Fleming 17 years ago.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38345341</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38345341</guid>
+            <pubDate>Fri, 16 Dec 2016 17:04:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D16A/production/_93001635_p04lp5kj.jpg"/>
+        </item>
+    </channel>
+</rss>

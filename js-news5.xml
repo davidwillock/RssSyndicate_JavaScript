@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Business]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Business</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 11:01:21 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[CEO Secrets: Thomas Cook boss shares his tips]]></title>
+            <description><![CDATA[Peter Fankhauser, CEO of travel firm Thomas Cook, shares the business advice he wishes he had been given when he started out.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38288661</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38288661</guid>
+            <pubDate>Mon, 19 Dec 2016 00:41:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13F31/production/_92931718_p04l414w.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The best place to work at this time of year']]></title>
+            <description><![CDATA[Aaron Heslehurst speaks to the head toy demonstrator at Hamleys in London as the shop goes through its busiest time of year.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38364838</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38364838</guid>
+            <pubDate>Mon, 19 Dec 2016 10:54:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0110/production/_93027200_p04lwlj5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Corner shops helped us to integrate']]></title>
+            <description><![CDATA[Lord Dolar Popat, who had his first shop in the 1970s and is now a multi-millionaire, talks about his early days.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38340010</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38340010</guid>
+            <pubDate>Mon, 19 Dec 2016 00:42:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/44EA/production/_93024671_lorddolarpopat.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social storage: The people profiting from surplus space]]></title>
+            <description><![CDATA[The traditional warehouse model of self-storage is under threat from "citizen storers".]]></description>
+            <link>http://www.bbc.co.uk/news/business-38341445</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38341445</guid>
+            <pubDate>Sun, 18 Dec 2016 00:34:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A9BC/production/_93025434_p04lp33d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is air pollution really a public health crisis?]]></title>
+            <description><![CDATA[Is air pollution really a public health crisis? Mark Lobel reports.]]></description>
+            <link>http://www.bbc.co.uk/news/38357986</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38357986</guid>
+            <pubDate>Sun, 18 Dec 2016 13:31:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/178E1/production/_93018469_p04ltckc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why do we spend so much at Christmas?]]></title>
+            <description><![CDATA[Christmas brings out the generous spirit in most of us but what tactics are retailers coming up with to get us to spend that bit more?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38342699</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38342699</guid>
+            <pubDate>Sun, 18 Dec 2016 01:23:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6946/production/_93005962_p04lplmr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strikes - and a Christmas of discontent?]]></title>
+            <description><![CDATA[Four strikes have been called in the UK in the lead-up to Christmas, as Dan Macadam of the BBC's Business unit explains.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38345753</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38345753</guid>
+            <pubDate>Fri, 16 Dec 2016 23:20:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6824/production/_93006662_p04lqd8n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fags, mags - and bags? ]]></title>
+            <description><![CDATA[The left luggage industry has a new rival, as one start-up recruits small shops to store items.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38341439</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38341439</guid>
+            <pubDate>Fri, 16 Dec 2016 22:38:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D731/production/_92998055_newsagent.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camelot boss: Draw integrity very strong]]></title>
+            <description><![CDATA[Camelot chief executive Andy Duncan says the integrity of National Lottery draws remains "very strong" after the firm is fined £3m over a suspect ticket claim.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38346399</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38346399</guid>
+            <pubDate>Fri, 16 Dec 2016 15:27:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/ADBF/production/_92997444_p04lnkg0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where is South Africa's economy heading?]]></title>
+            <description><![CDATA[Poor growth and political in-fighting in South Africa is holding business back.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38342363</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38342363</guid>
+            <pubDate>Fri, 16 Dec 2016 12:40:04 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/DEE3/production/_92995075_p04ln261.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghana's 'women who code' network]]></title>
+            <description><![CDATA[The female software engineers in Ghana using technology to improve their incomes and working lives.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38342361</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38342361</guid>
+            <pubDate>Fri, 16 Dec 2016 12:41:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12D03/production/_92995077_p04ln2ft.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southern rail strike: Angry commuters protest at DoT]]></title>
+            <description><![CDATA[Passengers protest outside Department for Transport over Southern rail strike; one says it four hours to travel home.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38330497</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38330497</guid>
+            <pubDate>Thu, 15 Dec 2016 22:32:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FBA3/production/_92991446_p04llhzs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Filipinos making a new life as teachers in the US]]></title>
+            <description><![CDATA[Filipinos working in the US have traditionally filled roles in nursing or as domestic helpers, but many are now becoming teachers.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38337473</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38337473</guid>
+            <pubDate>Fri, 16 Dec 2016 02:28:04 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/5BE9/production/_92992532_mediaitem92992528.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Were Yahoo hackers state-sponsored?]]></title>
+            <description><![CDATA[Cyber security expert 'sceptical' over Yahoo claims of state-sponsored hacking.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38326812</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38326812</guid>
+            <pubDate>Thu, 15 Dec 2016 08:02:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1203B/production/_92978737_p04lhn94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela pulls 100-bolivar note]]></title>
+            <description><![CDATA[The government has unexpectedly pulled 100-bolivar banknotes, saying it will help combat cross-border smuggling and hoarding in Colombia.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-38333388</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-38333388</guid>
+            <pubDate>Fri, 16 Dec 2016 00:01:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17A8D/production/_92990969_p04lkz62.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why aren't there more female pilots?]]></title>
+            <description><![CDATA[Easyjet CEO calls on the aviation industry to address gender stereotyping]]></description>
+            <link>http://www.bbc.co.uk/news/business-38326612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38326612</guid>
+            <pubDate>Thu, 15 Dec 2016 07:46:20 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15623/production/_92978578_p04lhmtd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Binmen put in danger by shortcut drivers]]></title>
+            <description><![CDATA[Waste firm Biffa has released footage in a campaign to prosecute drivers who endanger binmen by mounting pavements to get round rubbish lorries.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-38328448</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-38328448</guid>
+            <pubDate>Thu, 15 Dec 2016 09:54:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BD7C/production/_92980584_p04lhxps.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US rate rise: What impact will it have?]]></title>
+            <description><![CDATA[What does the Federal Reserve's rate rise mean for the US and the world?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38322508</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38322508</guid>
+            <pubDate>Wed, 14 Dec 2016 19:13:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E8FF/production/_92974695_p04lgg18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'selfie firm' worth $4.6bn]]></title>
+            <description><![CDATA[What price beauty? A Chinese start-up best known for an app that helps people tweak their selfies has listed on the stock market for $4.6bn,]]></description>
+            <link>http://www.bbc.co.uk/news/business-38324984</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38324984</guid>
+            <pubDate>Thu, 15 Dec 2016 06:34:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15105/production/_92977268_selfieshot.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quinoa makes Taiwan comeback]]></title>
+            <description><![CDATA[South America's quinoa has taken the health food world by storm - but it turns out Taiwan has the same crop and it's making a comeback.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38312876</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38312876</guid>
+            <pubDate>Thu, 15 Dec 2016 00:12:33 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/7ACC/production/_92963413_9dabc89d-6cee-42bf-b9e7-6ba2ebf2fd1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Riding along in Uber’s self-drive car in San Francisco]]></title>
+            <description><![CDATA[Uber has begun testing its self-driving car in San Francisco - the BBC went for a quick ride.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38312313</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38312313</guid>
+            <pubDate>Wed, 14 Dec 2016 11:16:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2F73/production/_92974121_p04ld549.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are we being left in the digital slow lane?]]></title>
+            <description><![CDATA[Lord Adonis says telephone companies aren't rolling out 4G coverage fast enough.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38314023</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38314023</guid>
+            <pubDate>Wed, 14 Dec 2016 10:10:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DB5C/production/_92965165_adonis.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shareholder calls for Sky takeover transparency]]></title>
+            <description><![CDATA[Sky shareholder Richard Marwood calls for transparency in Sky bid.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38314020</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38314020</guid>
+            <pubDate>Wed, 14 Dec 2016 09:18:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B9B0/production/_92963574_p04lchyk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Top secret' Amazon Web Services opens in UK]]></title>
+            <description><![CDATA[Amazon Web Services has announced it is opening its first data centre in the UK]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38312694</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38312694</guid>
+            <pubDate>Wed, 14 Dec 2016 08:56:15 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A10A/production/_92962214_p04lcgg2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to meet US tech bosses]]></title>
+            <description><![CDATA[The president-elect prepares for talks with Silicon Valley's main players.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38311008</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38311008</guid>
+            <pubDate>Wed, 14 Dec 2016 05:32:25 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/DD28/production/_92961665_p04lbt6h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheap Christmas dinner: Chef Miguel Barclay cooks £1 feast]]></title>
+            <description><![CDATA[How can you cook a Christmas dinner for a pound? Chef Miguel Barclay shows us.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38289945</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38289945</guid>
+            <pubDate>Tue, 13 Dec 2016 00:02:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/115DD/production/_92933117_p04kt3fp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Singapore's floating solar experiment shine? ]]></title>
+            <description><![CDATA[New solar floating panels being tested in Singapore may help Asia as it turns more to solar energy.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38311357</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38311357</guid>
+            <pubDate>Wed, 14 Dec 2016 00:55:42 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/840E/production/_92960833_e35a5e95-66f4-41c3-a1a8-cc0e4e4c6ce3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The phone system speaking India's language]]></title>
+            <description><![CDATA[How can smartphone firms engage India's diverse language users?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38297700</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38297700</guid>
+            <pubDate>Tue, 13 Dec 2016 01:43:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12339/production/_92935547_mediaitem92935546.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Businesses offer freebies in Turkish currency campaign.]]></title>
+            <description><![CDATA[Turkey's president wants people to exchange their foreign currency savings to shore up the plunging lira.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38293984</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38293984</guid>
+            <pubDate>Tue, 13 Dec 2016 00:11:57 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1561F/production/_92938578_p04l3t29.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: UPS boss on the power of mentoring]]></title>
+            <description><![CDATA[David Abney, CEO of US courier service UPS, shares the business advice he wishes he had been given when he started out.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38261027</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38261027</guid>
+            <pubDate>Mon, 12 Dec 2016 00:06:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA01/production/_92931715_ups1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Africa's scrubland plant entrepreneur]]></title>
+            <description><![CDATA[South Africa's scrubland plant "fynbos" has helped nursery owner Jacky Goliath develop her business.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38264362</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38264362</guid>
+            <pubDate>Mon, 12 Dec 2016 00:09:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/142BC/production/_92902628_p04ksknq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenya pins its prosperity hopes on oil]]></title>
+            <description><![CDATA[As Kenya prepares to export oil, the promise of petrodollars has generated high expectations.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38264361</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38264361</guid>
+            <pubDate>Fri, 09 Dec 2016 12:10:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/169CC/production/_92902629_p04ksm23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore to shut down 2G network]]></title>
+            <description><![CDATA[Singapore prepares to shut down its 2G mobile phone network leaving thousands looking for a new service.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38215633</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38215633</guid>
+            <pubDate>Thu, 08 Dec 2016 23:44:57 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6620/production/_92844162_p04k961f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cameroon's 'protected' Penja pepper]]></title>
+            <description><![CDATA[Cameroon's "protected" Penja pepper has helped to transform the region, economically.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38264367</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38264367</guid>
+            <pubDate>Fri, 09 Dec 2016 21:28:14 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5C44/production/_92902632_p04ktqsk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The hopping robot and other tech news]]></title>
+            <description><![CDATA[BBC Click's Nick Kwek looks at some of the best of the week's technology news]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38256962</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38256962</guid>
+            <pubDate>Fri, 09 Dec 2016 00:12:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13073/production/_92893977_p04kpj7k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artist's Jane Austen fivers 'worth £20,000' to be found]]></title>
+            <description><![CDATA[Artist Graham Short's tiny engravings of Jane Austen on four £5 notes could make anyone who finds one £20,000.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38257375</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38257375</guid>
+            <pubDate>Thu, 08 Dec 2016 18:36:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/574D/production/_92894322_p04kppf5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Edible gardens take root in urban Singapore]]></title>
+            <description><![CDATA[On the island of Singapore, young urbanites are being shown how to grow their own tropical-friendly, edible gardens.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38234462</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38234462</guid>
+            <pubDate>Thu, 08 Dec 2016 02:57:55 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14100/production/_92867128_p04kj9lm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['See past my disability, give me a job']]></title>
+            <description><![CDATA[June is disabled and was unable to find a job for three years.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38241239</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38241239</guid>
+            <pubDate>Wed, 07 Dec 2016 19:46:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1803/production/_92874160_p04kkb2n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facial scan app wants to get to know you]]></title>
+            <description><![CDATA[Augmented reality app Blippar can now recognise the faces of 70,000 public figures.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38216255</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38216255</guid>
+            <pubDate>Tue, 06 Dec 2016 09:59:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4DDE/production/_92843991_p04k942r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian app firms cash in on Modi's rupee note switch]]></title>
+            <description><![CDATA[Enterprising Indians are seeing opportunity after almost 90% of bank notes were withdrawn.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38221190</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38221190</guid>
+            <pubDate>Tue, 06 Dec 2016 10:38:47 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/A40A/production/_92849914_mediaitem92849913.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's hi-tech bike hire startups]]></title>
+            <description><![CDATA[China's tech giants are backing sophisticated bike hire as a solution to the country's congested roads.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-38199162</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-38199162</guid>
+            <pubDate>Sun, 04 Dec 2016 22:11:14 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1074E/production/_92860476_p04k2kwt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DNA testing at work: One company's unusual policy]]></title>
+            <description><![CDATA[BBC News visits a travel company using DNA testing to challenge its own workplace culture.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38183937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38183937</guid>
+            <pubDate>Sat, 03 Dec 2016 00:46:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3D6/production/_92803245_p04jyhm5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: TripAdvisor co-founder shares his business tips]]></title>
+            <description><![CDATA[Langley Steinert, the co-founder of TripAdvisor, shares the business advice he has learned.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38156562</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38156562</guid>
+            <pubDate>Sun, 04 Dec 2016 08:10:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7500/production/_92725992_p04jg546.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Link between Shenzhen and HK stock markets goes live]]></title>
+            <description><![CDATA[A link between the Shenzhen and Hong Kong stock exchanges starts up.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38203818</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38203818</guid>
+            <pubDate>Mon, 05 Dec 2016 01:54:43 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B093/production/_92830254_p04k5pn8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A lack of cash is forcing rural Indians to barter]]></title>
+            <description><![CDATA[Rural Indians are being forced to barter for groceries after the government withdrew larger banknotes.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38203811</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38203811</guid>
+            <pubDate>Sun, 04 Dec 2016 23:34:18 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/EC4C/production/_92829406_p04k54bt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prepare for disappearing credit cards]]></title>
+            <description><![CDATA[The plastic credit card is being replaced by invisible payments, the boss of Barclaycard says.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38184830</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38184830</guid>
+            <pubDate>Sun, 04 Dec 2016 00:49:48 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/8AD4/production/_92804553_rdo7pm84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghana's self-taught skincare entrepreneur]]></title>
+            <description><![CDATA[Israella Kafui-Mansu gives the BBC a guided tour of her organic beauty business.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38183420</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38183420</guid>
+            <pubDate>Sun, 04 Dec 2016 00:48:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BD88/production/_92802584_p04jxrzl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Testing car seats to protect children]]></title>
+            <description><![CDATA[With rules on children's car seats set to change next year, Richard Westcott visits a facility for conducting tests.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38183929</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38183929</guid>
+            <pubDate>Fri, 02 Dec 2016 11:46:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5EA6/production/_92803242_p04jxf0h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Indian YouTube channel with 6 billion views]]></title>
+            <description><![CDATA[How Indian company ChuChu TV animates traditional nursery rhymes for its popular YouTube channel.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38167790</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38167790</guid>
+            <pubDate>Fri, 02 Dec 2016 00:01:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/179F7/production/_92795769_p04jsjlk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghanaian elections hinge on country's economy]]></title>
+            <description><![CDATA[The economy is in the spotlight as Ghana builds up for pivotal elections.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38183418</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38183418</guid>
+            <pubDate>Fri, 02 Dec 2016 11:15:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2148/production/_92802580_p04jx9vp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy referendum: What if voters say 'No' to reforms?]]></title>
+            <description><![CDATA[What happens if Italians vote against proposed constitutional reforms?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38163097</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38163097</guid>
+            <pubDate>Thu, 01 Dec 2016 11:23:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11AA1/production/_92735327_p04jm195.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tennessee factory workers win $421m on lottery]]></title>
+            <description><![CDATA[Amy O'Neill talks about her $421m lottery win, shared with 20 colleagues at a Tennessee car parts factory.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38175959</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38175959</guid>
+            <pubDate>Thu, 01 Dec 2016 20:41:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/119B7/production/_92791127_p04jskyh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cash calendar - tips for December]]></title>
+            <description><![CDATA[Building up a savings buffer is one financial goal that should be considered as a new year approaches, an expert says.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38148612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38148612</guid>
+            <pubDate>Thu, 01 Dec 2016 00:23:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F8A3/production/_92715636_lg6o3wr1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How alpacas keep turkey off foxes' menus]]></title>
+            <description><![CDATA[Why one farmer in south-east England uses 10 alpacas to protect his 24,000 free-range turkeys from foxes.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38144978</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38144978</guid>
+            <pubDate>Thu, 01 Dec 2016 00:16:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/650E/production/_92707852_p04jblqk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan's caviar set to give Russia a run for its money]]></title>
+            <description><![CDATA[Mariko Oi finds out how Japan is planning to give Russia a run for its money - in caviar.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38156270</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38156270</guid>
+            <pubDate>Wed, 30 Nov 2016 23:31:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/128ED/production/_92731067_p04jkhht.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Mnuchin: Who is Trump's new treasury secretary?]]></title>
+            <description><![CDATA[Donald Trump has picked former Goldman Sachs banker Steven Mnuchin as his treasury secretary - what do we know about him?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38160130</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38160130</guid>
+            <pubDate>Wed, 30 Nov 2016 16:15:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1B65/production/_92731070_p04jkwr0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Russia's Rosneft sale has hit problems]]></title>
+            <description><![CDATA[The Russian government needs to sell 20% of shares in Rosneft, the world's largest publicly traded oil company. But the plan has hit some problems, as Oleg Boldyrev explains.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38163099</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38163099</guid>
+            <pubDate>Wed, 30 Nov 2016 17:51:06 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/3429/production/_92735331_mediaitem92735329.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are our chocolates shrinking?]]></title>
+            <description><![CDATA[When Toblerone introduced a new size and shape it was international news. But it's not the only chocolate bar that's been shrinking this year.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38155475</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38155475</guid>
+            <pubDate>Wed, 30 Nov 2016 16:21:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15BBA/production/_92781098_mediaitem92781097.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Independent evidence needed' on new cigarette]]></title>
+            <description><![CDATA[Chief executive of Action on Smoking and Heath says iQOS cigarettes are "not harm-free".]]></description>
+            <link>http://www.bbc.co.uk/news/health-38154601</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38154601</guid>
+            <pubDate>Wed, 30 Nov 2016 08:40:16 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5D7C/production/_92723932_p04jhrsj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia asks Opec to cut world oil supply]]></title>
+            <description><![CDATA[Opec could cut crude oil output by a million barrels a day, if Saudi Arabia gets its way this week.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38148020</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38148020</guid>
+            <pubDate>Wed, 30 Nov 2016 00:17:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="574" url="http://c.files.bbci.co.uk/77B1/production/_92714603_p04jc9gw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bored stiff' Devon pensioner, 89, seeks job]]></title>
+            <description><![CDATA[Eighty-nine-year-old Joe Bartley was so bored being retired he put an ad in his local paper asking for work.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-devon-38151994</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-devon-38151994</guid>
+            <pubDate>Tue, 29 Nov 2016 20:19:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15C37/production/_92734198_mediaitem92734197.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I paid nearly £3,000 for a £300 washing machine']]></title>
+            <description><![CDATA[Dawn North says she paid nearly £3,000 for a washing machine worth £300 using a rent-to-own firm.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38143422</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38143422</guid>
+            <pubDate>Tue, 29 Nov 2016 12:49:20 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11CC5/production/_92710927_p04jc0vy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pokemon Go: Where did the idea come from?]]></title>
+            <description><![CDATA[Where did the creators of global sensation Pokemon Go get the idea from?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38139961</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38139961</guid>
+            <pubDate>Tue, 29 Nov 2016 00:46:27 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/BF2C/production/_92704984_mediaitem92704983.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Women 2016: Santander boss Shriti Vadera on sexism in banking]]></title>
+            <description><![CDATA[Shriti Vadera, Chair of Santander UK, tells Laura Kuenssberg how she reached the top despite intense challenges.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38129654</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38129654</guid>
+            <pubDate>Tue, 29 Nov 2016 00:14:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/39BB/production/_92697741_p04j8c4j.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: Big Issue founder on the key to success]]></title>
+            <description><![CDATA[John Bird, founder of the The Big Issue magazine, shares his business advice.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38134596</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38134596</guid>
+            <pubDate>Mon, 28 Nov 2016 13:40:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1297/production/_92695740_p04j7kyq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Zimbabwe rolling out bond notes?]]></title>
+            <description><![CDATA[Zimbabwe has started rolling out a new currency - but will it solve the country's cash crunch?]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38139256</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38139256</guid>
+            <pubDate>Mon, 28 Nov 2016 22:15:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/56CC/production/_92702222_p04j9jlr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shapr boss: 'I want networking to be a lifestyle']]></title>
+            <description><![CDATA[Ludovic Huraux, boss of "business dating" app Shapr, explains why he would like networking to become a lifestyle choice.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38026104</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38026104</guid>
+            <pubDate>Thu, 24 Nov 2016 17:15:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/60B7/production/_92695742_p04gptsx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting up early to grab Black Friday bargains]]></title>
+            <description><![CDATA[Erin Leahy is one shopper who's determined to grab Black Friday bargains, her plan ids to get up early and go online in a bid to beat the crowds.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38107083</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38107083</guid>
+            <pubDate>Fri, 25 Nov 2016 12:45:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="574" url="http://c.files.bbci.co.uk/46F5/production/_92656181_p04hwfk7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ivory Coast: W Africa's 'best investment' destination]]></title>
+            <description><![CDATA[Ivory Coast, which has one of the fastest growing economies on the continent, has been named the top destination for investment in West Africa.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38106775</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38106775</guid>
+            <pubDate>Fri, 25 Nov 2016 22:17:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/73D7/production/_92655692_p04hvy7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Top sellers so far on Black Friday]]></title>
+            <description><![CDATA[These are the ten most popular goods ordered from one retailer on Black Friday.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38107474</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38107474</guid>
+            <pubDate>Fri, 25 Nov 2016 19:09:35 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C964/production/_92665515_p04hxsvd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Black Friday came to the UK]]></title>
+            <description><![CDATA[Black Friday started as a US tradition but is now firmly established in the UK.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38066228</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38066228</guid>
+            <pubDate>Fri, 25 Nov 2016 00:40:34 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/028A/production/_92605600_backfridayjpeg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another spin for the jukebox?]]></title>
+            <description><![CDATA[Keep hold of your vinyl records - a company in Leeds says jukeboxes are making a comeback.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38112728</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38112728</guid>
+            <pubDate>Fri, 25 Nov 2016 22:54:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14A6/production/_92668250_p04hyphb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria's desperate drive to diversify]]></title>
+            <description><![CDATA[With the collapse in the international oil price, Nigeria is under pressure to broaden its economic activity.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38106772</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38106772</guid>
+            <pubDate>Fri, 25 Nov 2016 12:22:15 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/25B7/production/_92655690_p04hw5pz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jigsaw boss: Black Friday is a 'complete and utter deception']]></title>
+            <description><![CDATA[The head of fashion chain Jigsaw says his shops will not be offering any discounts on Black Friday as the day is a "complete deception".]]></description>
+            <link>http://www.bbc.co.uk/news/business-38097413</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38097413</guid>
+            <pubDate>Thu, 24 Nov 2016 16:15:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5A67/production/_92634132_p04hqcdm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IFS chief: 'Worst decade for living standards']]></title>
+            <description><![CDATA[The director of a leading economic think tank says the UK is experiencing "the worst decade for living standards".]]></description>
+            <link>http://www.bbc.co.uk/news/business-38089044</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38089044</guid>
+            <pubDate>Thu, 24 Nov 2016 13:53:52 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/3163/production/_92634621_p04hp7yw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Statement 2016: Millennials message to the chancellor]]></title>
+            <description><![CDATA[As the Autumn Statement unfolded, BBC News talked to some millennials at a cafe popular with the growing digital workforce.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38107088</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38107088</guid>
+            <pubDate>Fri, 25 Nov 2016 12:44:33 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E335/production/_92656185_p04hsxmm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cash crisis: why Indian ATMs struggle with new notes]]></title>
+            <description><![CDATA[Indians are struggling to access their cash from ATMs, after a government crackdown on corruption.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-38088841</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-38088841</guid>
+            <pubDate>Thu, 24 Nov 2016 14:38:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12519/production/_92633057_tv036556722.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cambodian farmers paid to protect birds]]></title>
+            <description><![CDATA[Why rice farmers in Cambodia are being paid to help protect the Giant Ibis.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38084283</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38084283</guid>
+            <pubDate>Thu, 24 Nov 2016 06:52:18 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/799D/production/_92633113_p04hmf18.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Entertainment and Arts]]></title>
+        <description><![CDATA[BBC News - Entertainment and Arts]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Entertainment and Arts</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 12:05:08 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Luxury cake boss wins The Apprentice]]></title>
+            <description><![CDATA[Luxury cake business owner Alana Spencer has beaten Courtney Wood and his novelty toy business to win The Apprentice.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38359938</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38359938</guid>
+            <pubDate>Mon, 19 Dec 2016 02:41:53 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/C8F2/production/_93024415_mediaitem93024414.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hollywood star Zsa Zsa Gabor dies aged 99]]></title>
+            <description><![CDATA[The Hungarian-born actress was more famous for her personal life than her on-screen roles.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38360675</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38360675</guid>
+            <pubDate>Mon, 19 Dec 2016 00:12:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B6DC/production/_93021864_p04lvqjp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ore and Joanne win Strictly 2016]]></title>
+            <description><![CDATA[The moment the Strictly Come Dancing 2016 champions find out they have won.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38355058</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38355058</guid>
+            <pubDate>Sun, 18 Dec 2016 04:26:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/103F7/production/_93015566_mediaitem93015565.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The last '10 from Len' on Strictly]]></title>
+            <description><![CDATA[Strictly Come Dancing head judge Len Goodman has awarded his last "10 from Len"]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38356331</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38356331</guid>
+            <pubDate>Sun, 18 Dec 2016 08:14:49 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/20A9/production/_93016380_p04lswff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly's best bits: Gangnam Style to Sexy Samba]]></title>
+            <description><![CDATA[Ore Oduba and his partner Joanne Clifton have been crowned champions in the final of Strictly Come Dancing.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38356154</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38356154</guid>
+            <pubDate>Sun, 18 Dec 2016 08:02:01 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/CF45/production/_93016035_p04lsvh2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News jingle dancer in TV studio]]></title>
+            <description><![CDATA[Corville Cuffy dances to the BBC News jingle after footage of him in Leicester Square went viral online.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38346358</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38346358</guid>
+            <pubDate>Fri, 16 Dec 2016 16:05:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/693C/production/_93004962_mediaitem93003016.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The artists bringing childish terrors to life]]></title>
+            <description><![CDATA[The Monster Project takes horrifying creatures designed by children and gets professional artists to bring them to life.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38347436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38347436</guid>
+            <pubDate>Sat, 17 Dec 2016 00:07:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A36/production/_93005186_p04lpgdk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Casualty set hosts mannequin challenge with NHS staff]]></title>
+            <description><![CDATA[The BBC set of Casualty hosts off-duty NHS staff for a mannequin challenge.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38335153</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38335153</guid>
+            <pubDate>Fri, 16 Dec 2016 00:03:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0081/production/_92992100_p04llsnf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dances to BBC jingle in Leicester Square]]></title>
+            <description><![CDATA[The BBC news jingle seems to have inspired some funky shapes for one performer in Leicester Square.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38323877</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38323877</guid>
+            <pubDate>Wed, 14 Dec 2016 23:58:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1429B/production/_92978528_p04lgzrb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rogue One: Felicity Jones on being Star Wars' first female lead]]></title>
+            <description><![CDATA[Felicity Jones, who plays Jyn Erso in the new Star Wars film Rogue One, speaks to the BBC's Colin Paterson about the role.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38313929</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38313929</guid>
+            <pubDate>Wed, 14 Dec 2016 09:15:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5808/production/_92963522_mediaitem92963521.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gio Ponti villa in Iran faces demolition]]></title>
+            <description><![CDATA[Villa Namazee is Gio Ponti's only work in Iran, but is to be replaced by five-star hotel.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-38336761</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-38336761</guid>
+            <pubDate>Thu, 15 Dec 2016 23:22:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/169CB/production/_92991629_p04llbkz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Music Awards: Robbie Williams collects gong for Adele]]></title>
+            <description><![CDATA[Pop star Adele has dominated the BBC Music Awards for a second year in a row - without making an appearance.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38299605</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38299605</guid>
+            <pubDate>Tue, 13 Dec 2016 11:45:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/156CA/production/_92945778_p04l7bgr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JK Rowling: 'Special and unique' book up for auction]]></title>
+            <description><![CDATA[A handwritten and illustrated book - one of only seven produced by the Harry Potter author - is being auctioned.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38300417</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38300417</guid>
+            <pubDate>Tue, 13 Dec 2016 09:17:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/108AA/production/_92945776_mediaitem92945775.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Globes: A guide to the nominees]]></title>
+            <description><![CDATA[Musical film La La Land leads the pack in this year's Golden Globe nominations, but what other films and actors are in the running?]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38297219</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38297219</guid>
+            <pubDate>Mon, 12 Dec 2016 23:46:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CF98/production/_92944135_p04l53yn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madonna delivers ferocious acceptance speech at Woman of the Year award]]></title>
+            <description><![CDATA[Madonna delivers a powerful acceptance speech as she picks up the Woman of the Year award at the Billboards.]]></description>
+            <link>http://www.bbc.co.uk/news/38289975</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38289975</guid>
+            <pubDate>Mon, 12 Dec 2016 11:00:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11DAD/production/_92933137_p04l2npb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young Attenborough fans amazed by the documentary]]></title>
+            <description><![CDATA[Young Attenborough fans amazed by the wonders of the critically acclaimed series.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38287036</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38287036</guid>
+            <pubDate>Mon, 12 Dec 2016 09:55:28 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/17B4F/production/_92930179_p04l28kc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Overcoming dyslexia to become a novelist]]></title>
+            <description><![CDATA[Award winning children's novelist, Sally Gardner, didn't let dyslexia stop her from writing]]></description>
+            <link>http://www.bbc.co.uk/news/education-38293544</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38293544</guid>
+            <pubDate>Mon, 12 Dec 2016 14:47:38 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CF0B/production/_92930035_p04l3qfx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raising the curtain on Liverpool's new theatre company]]></title>
+            <description><![CDATA[The Everyman Theatre in Liverpool is forming its first repertory company for 25 years.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38285375</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38285375</guid>
+            <pubDate>Mon, 12 Dec 2016 07:12:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/1273E/production/_92928557_p04l1z19.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Louis Tomlinson pays tribute to mother on X Factor]]></title>
+            <description><![CDATA[Louis Tomlinson performed his new single on The X Factor days after losing his mother.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38280866</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38280866</guid>
+            <pubDate>Sun, 11 Dec 2016 12:02:56 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/6F06/production/_92922482_p04l0ngg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World premiere of Rogue One: A Star Wars Story]]></title>
+            <description><![CDATA[Stars of Rogue One: A Star Wars Story took to the red carpet in Hollywood for the world premiere.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38280864</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38280864</guid>
+            <pubDate>Sun, 11 Dec 2016 11:05:21 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1557E/production/_92922478_p04l0jj2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Nervous' Patti Smith forgets Bob Dylan lyrics]]></title>
+            <description><![CDATA[Patti Smith forgets the words to Bob Dylan's song, A Hard Rain's A-Gonna Fall, at his Nobel Literature Prize ceremony in Stockholm.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38276860</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38276860</guid>
+            <pubDate>Sat, 10 Dec 2016 17:39:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6F9B/production/_92917582_patti2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I was given a second chance': AA Gill dies]]></title>
+            <description><![CDATA[Sunday Times critic AA Gill has died at the age of 62, three weeks after revealing he had cancer. He appeared on BBC Radio 4's Desert Island Discs in 2006.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38276168</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38276168</guid>
+            <pubDate>Sat, 10 Dec 2016 16:57:33 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15429/production/_92918078_p04kyjxx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The most-watched music videos of 2016]]></title>
+            <description><![CDATA[Justin Bieber, Zayn and Adele all feature in the UK's most-watched videos of 2016. but who is number one?]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38256441</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38256441</guid>
+            <pubDate>Thu, 08 Dec 2016 17:01:51 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BB25/production/_92890974_p04kp8xm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could you be next GB Wheelchair dancer?]]></title>
+            <description><![CDATA[Britain currently has just one couple competing on the world stage in Wheelchair dance, but there is a push to get more people involved, as Mike Bushell reports.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38274231</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38274231</guid>
+            <pubDate>Sat, 10 Dec 2016 08:41:38 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17A3F/production/_92913869_p04kxjyn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthony Horowitz teases new James Bond book]]></title>
+            <description><![CDATA[Anthony Horowitz has revealed he will be writing a new James Bond book with a “killer” first line.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38238272</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38238272</guid>
+            <pubDate>Wed, 07 Dec 2016 12:04:13 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/0240/production/_92867500_p04k8hlj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are you missing out listening to MP3 music?]]></title>
+            <description><![CDATA[Music producer Trevor Horn illustrates how sound quality can differ with a compressed MP3 file.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38209135</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38209135</guid>
+            <pubDate>Wed, 07 Dec 2016 06:50:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CB55/production/_92835025_p04hk7xq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead bassist: 'Vinyl is like clothing for music']]></title>
+            <description><![CDATA[Radiohead's bassist says vinyl is "more pleasurable" than digital downloads.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38237256</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38237256</guid>
+            <pubDate>Wed, 07 Dec 2016 13:52:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BE43/production/_92870784_p04khyyt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Women 2016: Model Iskra Lawrence on why every body is beautiful]]></title>
+            <description><![CDATA[Iskra Lawrence never fitted into a fashion industry box... so she decided to use social media to create her own.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38228958</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38228958</guid>
+            <pubDate>Wed, 07 Dec 2016 00:11:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16DF5/production/_92858639_p04kdmlk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Damon defends his role in Chinese film 'The Great Wall']]></title>
+            <description><![CDATA[Actor Matt Damon has defended his role in the Chinese film The Great Wall following accusations of 'whitewashing'.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-38229498</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-38229498</guid>
+            <pubDate>Tue, 06 Dec 2016 17:30:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/138A4/production/_92863008_damon.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gigi Hadid wins Model of the Year at Fashion Awards]]></title>
+            <description><![CDATA[Gigi Hadid scooped the International Model of the Year prize at the Fashion Awards in London.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38228978</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38228978</guid>
+            <pubDate>Tue, 06 Dec 2016 17:01:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BB67/production/_92857974_p04kdp33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Vaughan: Compelling actor who excelled in unsympathetic roles]]></title>
+            <description><![CDATA[British actor Peter Vaughan, best known for roles in Game of Thrones and Porridge, has died at the age of 93.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38225316</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38225316</guid>
+            <pubDate>Tue, 06 Dec 2016 14:34:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17F61/production/_92854189_vaughan.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Living with autism: Disney films helped me speak again]]></title>
+            <description><![CDATA[Ron and Owen Suskind on the films that helped Owen speak again]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38219561</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38219561</guid>
+            <pubDate>Tue, 06 Dec 2016 09:54:58 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/85E2/production/_92847243_p04kc44y.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christine and the Queens on being pansexual]]></title>
+            <description><![CDATA[Heloise Letissier, aka Christine and the Queens, talks pansexuality and rejecting gender stereotypes.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38212058</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38212058</guid>
+            <pubDate>Tue, 06 Dec 2016 02:23:57 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/7994/production/_92842113_christina.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helen Marten wins 2016 Turner Prize]]></title>
+            <description><![CDATA[Turner Prize-winner Helen Marten calls for more creativity in schools in her acceptance speech.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38212904</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38212904</guid>
+            <pubDate>Mon, 05 Dec 2016 22:18:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3948/production/_92846641_p04kbnv5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ridley says fame like 'sensory overload']]></title>
+            <description><![CDATA[Daisy Ridley on shooting to fame in Star Wars]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38206127</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38206127</guid>
+            <pubDate>Mon, 05 Dec 2016 09:27:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1105B/production/_92832796_p04k6p6m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coming home to Toxteth to make Turner Prize-winning designs]]></title>
+            <description><![CDATA[Sumuyya Khader lived on Cairns Street in Toxteth as a young girl - now the Turner Prize has brought her back.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38206488</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38206488</guid>
+            <pubDate>Mon, 05 Dec 2016 09:58:40 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F517/production/_92834726_p04k79pt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jo Cox tribute: Stars and MPs record single]]></title>
+            <description><![CDATA[Music stars and MPs record a single as a tribute to the Labour backbencher Jo Cox, who was murdered in her constituency.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38194726</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38194726</guid>
+            <pubDate>Sat, 03 Dec 2016 11:12:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/142E5/production/_92816628_p04k1385.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen's holiday season job]]></title>
+            <description><![CDATA[The Queen of Denmark has been working as a set and costume designer at the Tivoli Concert Hall in Copenhagen.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38189726</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38189726</guid>
+            <pubDate>Fri, 02 Dec 2016 19:58:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0407/production/_92813010_p04jzhc2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gillian Anderson campaigns against modern slavery]]></title>
+            <description><![CDATA[In an interview with the BBC's Andrew Marr, the Hollywood actress says that slavery is alive and well in every city.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38189172</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38189172</guid>
+            <pubDate>Fri, 02 Dec 2016 18:46:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1430D/production/_92810728_p04jz5h6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Cleese: Sachs 'a sweet man and brilliant farceur']]></title>
+            <description><![CDATA[John Cleese explains to Radio 4's Today the deep rapport he had with co-star Andrew Sachs]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38180267</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38180267</guid>
+            <pubDate>Fri, 02 Dec 2016 07:55:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/55E5/production/_92798912_sachs2bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Sachs: Fawlty Towers' 'I know nothing' scene]]></title>
+            <description><![CDATA[Watch the Fawlty Towers scene which created waiter Manuel's most famous line. Andrew Sachs, the actor who played him, has died at the age of 86.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38174747</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38174747</guid>
+            <pubDate>Thu, 01 Dec 2016 23:43:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/16FD9/production/_92796149_p04jvgpv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry and Rihanna get HIV tests in Barbados]]></title>
+            <description><![CDATA[Prince Harry and Rihanna have taken HIV tests together in Barbados to raise awareness on World Aids Day.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38175960</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38175960</guid>
+            <pubDate>Thu, 01 Dec 2016 23:06:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/86B9/production/_92798443_p04jvc5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Tom Courtenay reads Larkin's First Sight]]></title>
+            <description><![CDATA[Sir Tom Courtenay reads the Philip Larkin poem First Sight]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38180495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38180495</guid>
+            <pubDate>Fri, 02 Dec 2016 12:58:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/ADD4/production/_92800544_p04jxr04.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Namibia's 'unique' saxophonist Suzy Eises]]></title>
+            <description><![CDATA[Suzy Eises is a saxophonist from Namibia who has shared the stage with South Africa’s Jimmy Dludlu and other African artists.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38147328</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38147328</guid>
+            <pubDate>Wed, 30 Nov 2016 01:55:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1408D/production/_92716028_p04jdgrd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gillian Anderson: 'Slavery a $150bn business']]></title>
+            <description><![CDATA[Gillian Anderson discusses child trafficking as explored in her film Sold.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38169555</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38169555</guid>
+            <pubDate>Thu, 01 Dec 2016 13:30:09 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1B88/production/_92784070_p04jptvl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Beethoven hit a false note?]]></title>
+            <description><![CDATA[Our guests disagree over the authenticity of a Beethoven manuscript]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38141770</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38141770</guid>
+            <pubDate>Tue, 29 Nov 2016 09:24:11 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1101C/production/_92706696_p04jbfm7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Usain Bolt and stars hit red carpet for documentary film]]></title>
+            <description><![CDATA[Usain Bolt was flanked by dancers as he and other stars attended the world premiere of his documentary I Am Bolt in London on Monday.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38142344</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38142344</guid>
+            <pubDate>Tue, 29 Nov 2016 08:56:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/08DE/production/_92707220_p04jbby3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Balls on Strictly: His best moments]]></title>
+            <description><![CDATA[Strictly Come Dancing: Watch highlights of Ed Balls dancing]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38130475</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38130475</guid>
+            <pubDate>Mon, 28 Nov 2016 10:10:39 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/5919/production/_92690822_p04j6lct.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The film about 'boxing's greatest comeback']]></title>
+            <description><![CDATA[Vinny Paz's story is told in the film Bleed for This, produced by Martin Scorsese]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38128266</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38128266</guid>
+            <pubDate>Mon, 28 Nov 2016 12:22:51 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13B30/production/_92688608_p04j743h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Me at Six's Josh Franceschi to music ticket touts]]></title>
+            <description><![CDATA[A musician calls for ticket sellers who "force fans to pay hiked-up prices" to be jailed.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38130940</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38130940</guid>
+            <pubDate>Mon, 28 Nov 2016 10:32:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/131EF/production/_92691387_p04j6pf1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Women 2016: Alicia Keys on why a 'girl can't be herself']]></title>
+            <description><![CDATA[I'm disappointed so much hateful rhetoric, sexism and intolerance is rewarded with the Trump presidency, says Alicia Keys.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38101656</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38101656</guid>
+            <pubDate>Mon, 28 Nov 2016 09:45:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13249/production/_92690487_p04j4n81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corbyn the Musical creator on Labour leader Christmas single]]></title>
+            <description><![CDATA[Corbyn the Musical creator Bobby Friedman on the You Needed a Hero, You Got Corbyn track.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38133302</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38133302</guid>
+            <pubDate>Mon, 28 Nov 2016 14:35:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C0A7/production/_92691394_p04j7wnq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shifting sculptures: Dismantling a mother and child]]></title>
+            <description><![CDATA[Graffiti artist Kaws’ massive cartoon characters are leaving their home of 10 months at the Yorkshire Sculpture Park.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38115658</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38115658</guid>
+            <pubDate>Sat, 26 Nov 2016 11:52:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136A7/production/_92672597_p04j0nxl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Comedian Stewart Lee on manners in comedy and politics]]></title>
+            <description><![CDATA[Comedian Stewart Lee tells Andrew Neil why he is polite to people he does not agree with.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38106023</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38106023</guid>
+            <pubDate>Fri, 25 Nov 2016 11:38:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8F25/production/_92654663_p04hvjtt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another spin for the jukebox?]]></title>
+            <description><![CDATA[Keep hold of your vinyl records - a company in Leeds says jukeboxes are making a comeback.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38112728</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38112728</guid>
+            <pubDate>Fri, 25 Nov 2016 22:54:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14A6/production/_92668250_p04hyphb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Composer of the Rocky theme and a former boxer celebrate the art of the entrance song]]></title>
+            <description><![CDATA[Composer of the Rocky theme and a former boxer celebrate the art of the entrance song]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38111529</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38111529</guid>
+            <pubDate>Fri, 25 Nov 2016 17:40:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13AB6/production/_92666508_p04hxqxn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New wave of Birmingham rappers fired up by Lady Leshurr]]></title>
+            <description><![CDATA[One of the UK's biggest rap stars Lady Leshurr is inspiring a new wave of MC's from her home city which is hosting a music festival.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38110966</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38110966</guid>
+            <pubDate>Fri, 25 Nov 2016 16:56:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/106CB/production/_92657276_p04hxks7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The fashion designer whose creations are made from paper]]></title>
+            <description><![CDATA[A Congolese fashion designer is finding fame - making clothes out of paper.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38098232</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38098232</guid>
+            <pubDate>Thu, 24 Nov 2016 18:11:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11F2B/production/_92651537_paper.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panfilov's 28 Men: Is Russian war movie the whole story?]]></title>
+            <description><![CDATA[A new film has gone on release in Russia retelling one of the best-known stories of Soviet heroism in World War Two. But how much of it is true?]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38083603</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38083603</guid>
+            <pubDate>Thu, 24 Nov 2016 00:45:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10EF2/production/_92626396_p04hkhd6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob Dylan's guitarist on the night he went electric]]></title>
+            <description><![CDATA[Robbie Robertson was in Bob Dylan's band on the famous night of the Judas heckle, he tells Andy Kershaw what really happened.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38086203</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38086203</guid>
+            <pubDate>Thu, 24 Nov 2016 11:51:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15A74/production/_92629688_p04hkj77.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barack Obama 'chokes up' giving Ellen DeGeneres 'Medal of Freedom']]></title>
+            <description><![CDATA[US President Barack Obama gets 'choked up' giving Ellen DeGeneres the 'Medal of Freedom'.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38074072</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38074072</guid>
+            <pubDate>Wed, 23 Nov 2016 02:27:18 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/19B5/production/_92618560_p04hgwrh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Women: Jeanette Winterson helps children rewrite Cinderella]]></title>
+            <description><![CDATA[UK author Jeanette Winterson helps school children re-imagine the fairy tale for a new generation.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38014161</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38014161</guid>
+            <pubDate>Tue, 22 Nov 2016 02:50:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B392/production/_92607954_de12_976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stars do the mannequin challenge at the White House]]></title>
+            <description><![CDATA[Stars of screen and sport mark a visit to the White House with a mannequin challenge.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38075319</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38075319</guid>
+            <pubDate>Wed, 23 Nov 2016 09:39:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E665/production/_92618985_mediaitem92618564.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brad Pitt and Marion Cotillard appear at Allied premiere.]]></title>
+            <description><![CDATA[Hollywood stars Brad Pitt and Marion Cotillard attend the premiere of their latest film Allied.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38053515</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38053515</guid>
+            <pubDate>Tue, 22 Nov 2016 15:55:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10041/production/_92610656_p04hd175.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gordon-Levitt on playing Snowden]]></title>
+            <description><![CDATA[What's it like to play Edward Snowden? Joseph Gordon-Levitt tells BBC Newsnight's Stephen Smith.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38065305</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38065305</guid>
+            <pubDate>Tue, 22 Nov 2016 12:34:13 GMT</pubDate>
+            <media:thumbnail width="997" height="561" url="http://c.files.bbci.co.uk/40A6/production/_92605561_p04hbygk.jpg"/>
+        </item>
+    </channel>
+</rss>
